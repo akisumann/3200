@@ -149,9 +149,8 @@ def ref_sources() -> list[Path]:
     paths: list[Path] = []
     for dirname in TYPE_DIRS:
         paths.extend(sorted((WORLD / dirname).glob("*.md")))
-    for name in ("glossary.md", "timeline.md"):
-        if (WORLD / name).exists():
-            paths.append(WORLD / name)
+    # world/ 直下の文書（premise.md, glossary.md, timeline.md など）
+    paths.extend(sorted(WORLD.glob("*.md")))
     if PROJECTS.is_dir():
         paths.extend(sorted(PROJECTS.rglob("*.md")))
     return paths
