@@ -27,6 +27,8 @@
 | 三猿の教え | さんえんのおしえ | [[concept:battle]] | 見ざる聞かざる言わざる。実務者の初動安全原則 |
 | 大百足 | おおむかで | [[concept:youkai-samples]] | A級。全長10キロ前後の巨大ムカデ |
 | 茨木童子 | いばらきどうじ | [[char:ibaraki-doji]] | 鬼。斬られた腕が神社に安置されている |
+| 三猿の教え（学校） | — | [[concept:school-curriculum]] | 「見ざる聞かざる言わざる。ただし報告はしろ」 |
+| 六校合同競技会 | ろっこうごうどうきょうぎかい | [[concept:school-curriculum]] | 六校が参加する学校行事。進路イベントでもある |
 | 七人ミサキ | しちにんミサキ | [[concept:youkai-samples]] | C級。打倒手段が無いが、対象一人にしか効かない |
 | 恐怖の館系 | きょうふのやかたけい | [[concept:youkai-samples]] | C級。建物そのものが外殻になった妖怪 |
 | 八咫烏 | やたがらす | [[concept:youkai-samples]] | B級。最短最善を通す神鳥 |
