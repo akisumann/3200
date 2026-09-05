@@ -6,7 +6,7 @@ status: wip
 date: "5年前"
 aliases: [五年前の百鬼夜行, 百鬼夜行未遂アイドル堕ち事件]
 tags: [重大事件, 国家案件]
-related: [concept:youkai-nature, concept:cooperation-policy, concept:legal-status, faction:reimusho, concept:grades, concept:shinen]
+related: [concept:youkai-nature, concept:cooperation-policy, concept:legal-status, faction:reimusho, concept:grades, concept:shinen, event:belzebub-war]
 updated: 2026-09-05
 ---
 
@@ -245,12 +245,27 @@ updated: 2026-09-05
 
 **これは [[concept:cooperation-policy]] と [[concept:overseas]] の対立軸がそのまま出たもの。** 現在も「危険な超常存在は排除すべきか、管理可能か」の代表的な対立案件として扱われている。
 
+#### 批判が強いのは、向こうにも同格の事件があるから
+
+**批判の中心にいるのは [[event:belzebub-war]] の経験者たち。**
+
+約20年前、欧州は特殊A級相当の悪魔群と正面から戦い、**勝った。** ただし信仰備蓄を焼き、聖堂騎士団を壊滅させ、高位聖職者を大量に失っての勝利だった。**彼らが見たのは、交渉が最初から成立しない相手。**
+
+**その経験から見れば、日本のやったことは正気に見えない。** 蜂起を主導したA級を、殺さず、封じもせず、舞台へ上げて、若い妖怪を集めさせている。
+
+> **彼らの不信は、思想ではなく実体験から来ている。**
+
+**そして日本側の反論にも、同じ戦役が根拠として使える。** 討伐は成功したのに、戦後の欧州では地方の封印が不安定化し、各地で土着怪異が再活性化した。**勝った側の欧州が、「討伐しても後遺症は残る」の実例になっている。**
+
+**同じ事件から、逆の教訓が出ている。** それがこの対立の形。
+
 ## 関係
 
 - [[concept:youkai-nature]] — 一枚岩でないことが、そのまま統制不足として現れた
 - [[faction:reimusho]] — 6地区体制と地区長級A級。位置偽装が成立した前提
 - [[concept:cooperation-policy]] — 討伐しなかった理由
 - [[concept:overseas]] — 国外からの批判
+- [[event:belzebub-war]] — **批判の出所。**同じ事件から、日本と欧州で逆の教訓が出ている
 - [[concept:grades]] — A級複数の連携
 
 ## 未決
@@ -283,4 +298,4 @@ updated: 2026-09-05
 
 - これは例外的な大事件なのか、**この規模のことがときどき起きる**のか
 - 「5年前」ということは、**作中現在から見て記憶に新しい**。社会はまだこれを引きずっているのか
-- **国外の強硬派がなぜそこまで硬いのか**、その事情はまだ採っていない。向こう側にも同格の事件があったはず → [[concept:overseas]]
+- **国外の強硬派がなぜそこまで硬いのか**は [[event:belzebub-war]] で埋まった。残るのは**強硬派が組織なのか思想の傾向なのか**、そして**日本側にも同種の強硬派はいるのか**
