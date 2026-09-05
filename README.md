@@ -16,7 +16,8 @@
 ## ディレクトリ
 
 ```
-world/          正典。世界設定そのもの
+source/         作者による一次資料（LIGHT ファイル）。ここが正典の本体
+world/          source/ を整理・相互参照した派生物
   characters/     人物
   factions/       勢力・組織
   locations/      土地・場所
@@ -33,6 +34,14 @@ projects/       world/ を素材にした派生物
 docs/           このリポジトリ自体のルール
 tools/          検査・生成スクリプト
 ```
+
+## source/ と world/ の関係
+
+**`source/` が正典の本体。** 作者が自分の形式（LIGHT ファイル）で書いた設定がそのまま入っている。
+
+**`world/` はその派生物。** 一次資料を読み解いて、項目ごとに分割し、相互参照を張り、全体像を掴めるようにしたもの。**食い違いがあれば常に `source/` が正しい。**
+
+→ [source/README.md](source/README.md)
 
 ## 使い方
 
