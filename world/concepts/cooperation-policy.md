@@ -93,6 +93,7 @@ updated: 2026-09-05
 | [[concept:land-god]]（逃しポイントの統治） | できる | そう | **土地を治めさせる** → [[concept:release-points]] |
 | [[concept:taimashi-school]] の学校土地神 | できる | そう | **学校を守らせ、生徒の敬いを渡す** |
 | [[faction:shrines]] の神 | できる | そう | **祀る** → [[concept:kami]] |
+| [[char:hanako-san]] | できる | **そう** | **討てない。**全国の小学校へ同時存在しており、本体特定に成功していない |
 | [[event:lupin-incident]] の《ルパン》 | **契約できた** | **そう（上限が無い）** | **討たず、潜入調査と諜報に使う** |
 | [[event:hyakki-yako-attempt]] の主導者 | **自分から従った** | そう | **討たず、監視下でアイドルをやらせる** |
 | E級・F級 | — | **違う（無限に湧く）** | **討伐・浄化。家事に近い** → [[concept:jugu]] |
