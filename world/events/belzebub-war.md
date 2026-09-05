@@ -6,7 +6,7 @@ status: wip
 date: "約20年前"
 aliases: []
 tags: [重大事件, 海外, 特殊A級]
-related: [concept:overseas, concept:cooperation-policy, concept:grades, faction:shrines, event:hyakki-yako-attempt, char:bug]
+related: [concept:overseas, concept:cooperation-policy, concept:grades, concept:relics, faction:shrines, event:hyakki-yako-attempt, char:bug]
 updated: 2026-09-05
 ---
 
@@ -185,7 +185,15 @@ updated: 2026-09-05
 
 ## 戦後 — 教会が弱くなった
 
-**国際的に整備されたもの。** 特殊A級監視網、国際超常協力体制、広域封印戦の研究、**信仰備蓄管理制度**、特殊A級の情報共有条約、**長期封印・休眠存在の再調査**、高位悪魔性存在への警戒基準。
+**まず、等級に一段足された。**
+
+> **「特殊A級」という区分そのものが、この戦役の後にできた。**
+
+**約100年前に等級が国際標準として制定されたとき、一番上はA級だった**（→ [[event:grade-standard]]）。**八十年運用されてきた梯子の天井が、ここで書き換えられた** → [[concept:grades]]
+
+**そしてその呼び方は、後に呪具や遺物の側へも漏れ出していく**（→ [[concept:relics]]）。**本筋として決まったわけではないが、「特殊A級遺物」という言い方が使われるようになった。**
+
+**その他、国際的に整備されたもの。** 特殊A級監視網、国際超常協力体制、広域封印戦の研究、**信仰備蓄管理制度**、特殊A級の情報共有条約、**長期封印・休眠存在の再調査**、高位悪魔性存在への警戒基準。
 
 **そして欧州の内部が変わった。**
 
