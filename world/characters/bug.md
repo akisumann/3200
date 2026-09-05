@@ -5,7 +5,7 @@ type: character
 status: draft
 aliases: []
 tags: [妖怪, 特殊A級, アメリカ]
-related: [concept:shinen, concept:grades, concept:overseas, concept:core-layer, char:tamamo-no-mae, char:raiju, char:hanako-san, char:nostradamus]
+related: [concept:shinen, concept:grades, concept:overseas, concept:core-layer, concept:supernatural-war, char:tamamo-no-mae, char:raiju, char:hanako-san, char:nostradamus]
 updated: 2026-09-05
 ---
 
@@ -174,6 +174,18 @@ updated: 2026-09-05
 **BUGにとって呪詛化した異常情報は本体だが、雷獣にとってそれは餌。**
 
 **そして雷獣は通常C級。** 特殊A級が、五段下の妖怪群に食われていることになる。**相性ひとつで等級差は飛ぶ**（→ [[concept:grades]]）。
+
+### ただし、冗談なのはバグの部分だけ
+
+**「通信霊障は電子網に刺さるが、雷獣系の通信網に捕食される」は、国際的な相性表に載っている** → [[concept:supernatural-war]]
+
+**国家間超常戦の、能力相性を読み違える代表例の一つとして並んでいる。** **日本の通信網に雷獣が土着していることは、軍事上の前提として共有されている。**
+
+**冗談交じりなのは「バグ本体が食われているのではないか」という部分。** **通信霊障一般が雷獣に食われること自体は、確定した相性。**
+
+> **つまり日本は、通信を狙う超常攻撃に対して、意図せず強い。**
+
+**[[char:raiju]] の半管理は国内の霊障対策として始まったが**（→ 90年代の通信霊障管理計画）**、結果として国防に効いている。**
 
 ## 関係
 

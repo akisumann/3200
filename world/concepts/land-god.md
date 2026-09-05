@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [土地神級]
 tags: [妖怪, 制度]
-related: [concept:release-points, concept:grades, concept:kami]
+related: [concept:release-points, concept:grades, concept:kami, concept:supernatural-war]
 updated: 2026-09-05
 ---
 

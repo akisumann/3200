@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [歴史的遺物, アーティファクト]
 tags: [前提, 呪具, 歴史]
-related: [concept:jugu, concept:shinen, concept:grades, concept:overseas, event:belzebub-war, faction:shrines, faction:reimusho]
+related: [concept:jugu, concept:shinen, concept:grades, concept:overseas, event:belzebub-war, faction:shrines, faction:reimusho, concept:supernatural-war]
 updated: 2026-09-05
 ---
 
@@ -241,7 +241,7 @@ updated: 2026-09-05
 
 **だからパンドラの箱は、国際的な不安と警戒の象徴として扱われている。** **見つからないものへ予算を割くことが、制度として成立している。**
 
-**この repo でも、中身は確定させない**（→ `docs/02-canon-policy.md` の「掘らない」）。**確定していないこと自体が、この遺物の機能。**
+**この repo でも、中身は確定させない**（→ `docs/02-canon-policy.md` の「確定してはいけないこと」）。**掘らないのではなく、決められるが決めない側。** **確定していないこと自体が、この遺物の機能。**
 
 ## 遺物は、出てきた瞬間に面倒
 

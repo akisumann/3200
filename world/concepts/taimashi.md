@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: []
 tags: [職能, 日本]
-related: [concept:powers, concept:grades, concept:youkai, concept:taimashi-school, faction:reimusho, faction:shrines, faction:old-houses]
+related: [concept:powers, concept:grades, concept:youkai, concept:taimashi-school, faction:reimusho, faction:shrines, faction:old-houses, concept:supernatural-war]
 updated: 2026-09-05
 ---
 
