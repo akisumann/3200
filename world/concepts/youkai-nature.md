@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: []
 tags: [妖怪]
-related: [concept:youkai, concept:grades, concept:legal-status]
+related: [concept:youkai, concept:shinen, concept:grades, concept:legal-status]
 updated: 2026-09-05
 ---
 
@@ -33,6 +33,8 @@ updated: 2026-09-05
 | **老練な妖怪** | **人類というものの強さを正しく把握している** | 暴れない |
 
 **淘汰が働いている。** 人間を侮った妖怪は討伐されて残らない。長く生きている妖怪とは、**人間を侮らなかった妖怪**のこと。生き残りが慎重なのではなく、慎重だから生き残っている。
+
+しかも妖怪の死は討伐だけではない。**想われなくなれば衰弱して消える** → [[concept:shinen]]。長く在り続けるには、人間に討たれず、かつ人間に忘れられないという二つの条件を満たす必要がある。**老練な妖怪とは、その両方を潜り抜けてきた個体**のこと。
 
 ### ただし一個体は侮る
 
