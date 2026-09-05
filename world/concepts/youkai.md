@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: []
 tags: [前提]
-related: [concept:core-layer, concept:legal-status, concept:taimashi]
+related: [concept:core-layer, concept:youkai-nature, concept:legal-status, concept:taimashi]
 updated: 2026-09-05
 ---
 
@@ -51,6 +51,10 @@ updated: 2026-09-05
 ### 知性
 
 **大部分は知性が低い。** 人間と話が通じる個体は、その中の一部にすぎない。
+
+### 気質
+
+**一枚岩ではない。** 各個体が別のことを軸に生きており、種としてまとまった意思を持たない → [[concept:youkai-nature]]
 
 ### 等級
 
