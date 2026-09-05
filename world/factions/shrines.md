@@ -5,7 +5,7 @@ type: faction
 status: draft
 aliases: []
 tags: [日本, 勢力]
-related: [concept:reiryoku, faction:old-houses, faction:reimusho]
+related: [concept:powers, faction:old-houses, faction:reimusho]
 updated: 2026-09-05
 ---
 
@@ -31,7 +31,7 @@ updated: 2026-09-05
 
 ## 関係
 
-- [[concept:reiryoku]] — 扱う力
+- [[concept:powers]] — 扱う力
 - [[faction:old-houses]] — 同じく強いとされる側
 - [[faction:reimusho]] — 国の側
 

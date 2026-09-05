@@ -5,7 +5,7 @@ type: faction
 status: wip
 aliases: []
 tags: [制度, 日本]
-related: [concept:legal-status, concept:reiryoku]
+related: [concept:legal-status, concept:powers]
 updated: 2026-09-05
 ---
 
@@ -46,7 +46,7 @@ updated: 2026-09-05
 ### 何を担っているのか
 
 - 妖怪への対応（手続き、登録、統計、危険な個体への対処）
-- 霊力・呪力を使った物品の規制（そこらで売られている以上、何らかの規制はあるはず） → [[concept:reiryoku]]
+- 霊力・呪力を使った物品の規制（そこらで売られている以上、何らかの規制はあるはず） → [[concept:powers]]
 - [[concept:taimashi]] の資格・免許
 - [[faction:shrines]] や [[faction:old-houses]] との関係（監督するのか、協力するのか、頭が上がらないのか）
 
