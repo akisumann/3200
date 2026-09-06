@@ -5,13 +5,13 @@ type: character
 status: wip
 aliases: [殴り巫女, 諏訪地区長]
 tags: [人間, 退魔師, A級, 地区長, 巫女]
-related: [faction:reimusho, faction:shrines, concept:grades, concept:jugu, concept:taimashi, event:lupin-incident, event:hyakki-yako-attempt]
+related: [faction:reimusho, faction:shrines, concept:grades, concept:jugu, concept:taimashi, event:lupin-incident, event:hyakki-yako-attempt, loc:suwa]
 updated: 2026-09-05
 ---
 
 ## 概要
 
-**A級退魔師。[[faction:reimusho]] の中部地区長。** 諏訪大社系統に連なる古社所属の**巫女術師**。
+**A級退魔師。[[faction:reimusho]] の中部地区長。** 諏訪大社系統に連なる古社所属の**巫女術師**（→ [[loc:suwa]]）。
 
 **通称「殴り巫女」。**
 
