@@ -263,12 +263,11 @@ updated: 2026-09-06
 ## 関係
 
 - [[concept:a-rank]] — A級18人の名簿
-- [[char:kamo-gen]] — 百鬼夜行で、独立に同じ相手へ向かった
+- [[char:kamo-gen]] — 百鬼夜行で、独立に同じ相手へ向かった。[[loc:oeyama]] の管轄側でもある
 - [[char:aramaki]] — 同時使役数の下の段
 - [[loc:oeyama]] — 使役している特殊A級の本拠
 - [[concept:kami]] — 神格を万能解決装置にしない
 - [[loc:izumo]] — 中国四国地区
-- [[char:kamo-gen]] — [[loc:oeyama]] の管轄側
 
 ## 未決
 

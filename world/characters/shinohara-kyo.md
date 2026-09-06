@@ -159,10 +159,9 @@ updated: 2026-09-06
 - [[concept:a-rank]] — A級18人の名簿
 - [[event:hyakki-yako-attempt]] — 真の黒幕
 - [[char:kamo-gen]] / [[char:kurosawa-akira]] — 独立に炙り出した二人
-- [[char:mimura-sumi]] — 集結から外した側
+- [[char:mimura-sumi]] — 集結から外した側。いまその席を兼務している
 - [[concept:taimashi]] — 三系統に安全な側が無い
 - [[loc:tono]] — 東北地区。空いたままの席
-- [[char:mimura-sumi]] — その席を兼務している
 
 ## 未決
 

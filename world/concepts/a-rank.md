@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [A級退魔師, 公職A級]
 tags: [人物, 制度, 名簿]
-related: [concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
+related: [concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, char:nasu-mio, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
 updated: 2026-09-06
 ---
 
@@ -196,7 +196,7 @@ updated: 2026-09-06
 
 | 名前 | 分野 | |
 |---|---|---|
-| **那須 澪** | **特殊A級近傍監視** | [[char:tamamo-no-mae]] の封印。殺生石の管理を継いでいる家 |
+| **[[char:nasu-mio]]** | **特殊A級近傍監視** | [[char:tamamo-no-mae]] の封印。殺生石を見ている家 |
 | **物部 灯** | **国家級封印** | 封印蔵の最上位。何百年ぶんの封印を継いでいる |
 | **忌部 遥** | **広域結界** | 都市圏を丸ごと覆う。社の網がそのまま結界の骨組み |
 | **鵜飼 睦** | **高位交渉** | 妖怪の里との窓口。土地神との調整の最上位 |
@@ -206,15 +206,15 @@ updated: 2026-09-06
 > **repo 側の決定。** **出典には「神社旧家に6人」という枠しかない。**
 > **[[concept:battle]] のA級の分野一覧で、国枠が埋めていないところを配った。**
 
-### 那須澪 — 特殊A級近傍監視
+### [[char:nasu-mio]] — 特殊A級近傍監視
 
-**[[char:tamamo-no-mae]] を封じている殺生石を見ている。**
+**[[char:tamamo-no-mae]] を封じている殺生石を見ている。** **封印は手入れが要らないので、仕事は見ていることそのもの。**
 
-**殺生石の封印は出来が死ぬほどよく、基本的に手入れが要らない**（→ 同）。
+**そして封じた技術は、この家に伝わっていない。** **緩んでも掛け直せない。**
 
-> **手入れの要らない封印を、A級が一人張り付いて見ている。**
+> **手入れの要らない封印を、直せない人間が張り付いて見ている。**
 
-**何もしないことが仕事になっている。** **[[concept:relics]] の三種の神器と同じ形が、人の側にも一つある。**
+**詳細は [[char:nasu-mio]]。**
 
 ### 物部灯 — 国家級封印
 
