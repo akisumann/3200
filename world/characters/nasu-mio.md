@@ -5,7 +5,7 @@ type: character
 status: draft
 aliases: []
 tags: [人間, 退魔師, A級, 神社, 巫女, 天眼通, 神通力, 呪具保有者]
-related: [concept:a-rank, faction:shrines, faction:old-houses, concept:youkai-land, char:tamamo-no-mae, concept:battle, concept:grades, loc:nikko, char:mimura-sumi, faction:reimusho, concept:core-layer, char:naruse-cecile, concept:youkai-samples, char:kamo-gen, concept:jugu, concept:relics, char:naruse-jin, concept:taimashi, char:shinohara-kyo, faction:shrines, char:suwa-shizuka, concept:shinen, concept:legal-status, concept:cooperation-policy, concept:youkai-nature, char:kurosawa-akira]
+related: [concept:a-rank, faction:shrines, faction:old-houses, concept:youkai-land, char:tamamo-no-mae, concept:battle, concept:grades, loc:nikko, char:mimura-sumi, faction:reimusho, concept:core-layer, char:naruse-cecile, concept:youkai-samples, char:kamo-gen, concept:jugu, concept:relics, char:naruse-jin, concept:taimashi, char:shinohara-kyo, faction:shrines, char:suwa-shizuka, concept:shinen, concept:legal-status, concept:cooperation-policy, concept:youkai-nature, char:kurosawa-akira, concept:release-points]
 updated: 2026-09-06
 ---
 
@@ -110,16 +110,11 @@ updated: 2026-09-06
 
 **[[concept:battle]] の条件戦とは、質が違う。** **相手の条件を読んで崩すのではなく、相手が判断する前に足を動かさせる。**
 
-#### 逃しポイントの逆
+#### 逃しポイントとは、向きが逆
 
-**[[concept:a-rank]] の斎木惺は、逃しポイントの口を開けて、相手を戦場から抜いて落とす。**
+**[[concept:release-points]] は、湧いたものを外へ逃がす仕組み。**
 
-**この人物は、逆。**
-
-| | |
-|---|---|
-| **斎木惺** | **外へ出す** |
-| **この人物** | **内へ寄せる** |
+**この技は、内へ寄せる。**
 
 **那須野原は広い。** **湧いたものを一箇所へ集めて、そこで祓う**（下記）**という運用が、何百年ぶんそこにある。**
 
@@ -166,13 +161,11 @@ updated: 2026-09-06
 
 **[[char:suwa-shizuka]] や [[char:kamo-gen]] は近接特化のA級**（→ [[concept:a-rank]]）。**噛み合わせでいうと、一番悪いのはこの型。**
 
-##### [[concept:a-rank]] の柏木蓮の場合
+##### 呪具で殴ってくる相手なら、在庫の勝負
 
-**あちらは「その場の戦闘は在庫の量で決まる」側。**
+**矢を防ぐ手段を持ち込まれた場合、そこを切らす前に詰められるかどうかになる。**
 
-**だから在庫の勝負になる。** **矢を防ぐ呪具を切らす前に、詰められるかどうか。**
-
-> **repo 側の読み。** **この二人が当たったとは書かれていない。**
+> **消耗戦の側に落ちる。** **この人物は一射ずつしか撃てないので、手数の交換に向かない。**
 
 ### 面はある。ただし焼くほうではない
 
@@ -657,13 +650,13 @@ updated: 2026-09-06
 > **repo 側の読み。** **里が石を気にしているとは書かれていない。**
 > **距離から出てくるだけの話として置いておく。**
 
-### 鵜飼睦とは、役の大きさが違う
+### 契約を結ぶ役とは、大きさが違う
 
-**[[concept:a-rank]] の鵜飼睦は高位交渉で、妖怪の里との契約そのものを担う。**
+**[[concept:battle]] のA級の分野に高位交渉がある。** **妖怪の里との契約そのものを結ぶのは、そちらの仕事。**
 
 | | |
 |---|---|
-| **鵜飼睦** | **全国。**契約を結ぶ側 |
+| **高位交渉** | **契約を結ぶ側** |
 | **この人物** | **一つの里。**結ばれた契約の下で、日常の窓口をやっている |
 
 **[[concept:youkai-land]] の未決に「里の側に、人間と話す役はいるのか」とある。**
@@ -747,7 +740,7 @@ updated: 2026-09-06
 
 > **日本で二体しかいない特殊A級の一体を、直せない人間が見張っている。**
 
-**[[concept:a-rank]] の物部灯（国家級封印）が呼ばれることになる。** **ただしその人物にも、この封印は掛け直せない。** **同じ秘術を持っているとは書かれていない。**
+**[[concept:battle]] のA級の分野でいうと、国家級封印の側が呼ばれることになる。** **ただしそちらにも、この封印は掛け直せない。** **同じ秘術を持っているとは書かれていない。**
 
 ### ただし、動いたときは重い
 
@@ -831,14 +824,11 @@ updated: 2026-09-06
 
 **この人物は、その一番普通のところにいる。**
 
-| | |
-|---|---|
-| **[[concept:a-rank]] の忌部遥**（広域結界） | 網を張る。範囲が仕事 |
-| **同・鵜飼睦**（高位交渉） | 出向く。相手のところへ行く |
-| **同・斎木惺**（逃しポイント） | 全国を回る |
-| **この人物** | **地元の神社を回している。**由緒に特殊A級が一つ付いている |
+**やっているのは、地元の神社を回すこと。** **由緒に特殊A級が一つ付いている、というだけ。**
 
 > **名簿の中では、一番生活が想像しやすい一人。**
+
+**枠の残り五人は [[concept:a-rank]] に名前と分野だけ置いてある。** **まだ確認を通していないので、ここでは並べない。**
 
 ## 関係
 
