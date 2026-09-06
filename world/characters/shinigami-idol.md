@@ -5,7 +5,7 @@ type: character
 status: wip
 aliases: [百鬼夜行の主導者, アイドル接近禁止防壁]
 tags: [妖怪, A級, 死神, アイドル, 監視下]
-related: [event:hyakki-yako-attempt, concept:grades, concept:shinen, concept:core-layer, concept:legal-status, concept:cooperation-policy, faction:reimusho, concept:youkai-nature]
+related: [event:hyakki-yako-attempt, concept:grades, concept:shinen, concept:core-layer, concept:legal-status, concept:cooperation-policy, faction:reimusho, concept:youkai-nature, faction:companies]
 updated: 2026-09-06
 ---
 
@@ -131,6 +131,10 @@ updated: 2026-09-06
 
 **正式な監視下で芸能活動を続けている。** **配信、巡業、妖怪向けイベント、地方妖怪社会への顔出し、若年妖怪層への非戦派アピール。**
 
+**所属は [[faction:companies]] の宵市。** **[[faction:reimusho]] が直接抱えているのではない。**
+
+> **監視は国、興行は民間。** **ガス抜き装置を、国が自分で運営していない。**
+
 **これは監視であると同時に、ガス抜き装置になっている。**
 
 | 相手 | 効いている理由 |
@@ -165,5 +169,5 @@ updated: 2026-09-06
 - **姿はどういうものか**
 - **「若手」とあるが、いつ頃湧いたのか**
 - **黒幕に担がれていたのか、知っていたのか**
-- **所属は。事務所があるのか、[[faction:reimusho]] が直接抱えているのか**
+- **[[faction:companies]] の宵市に所属している。** **監視は国、興行は民間。** **本人はそれをどう思っているのか**
 - **死神系という種族は、単独で出るのか群れるのか。他に個体はいるのか**
