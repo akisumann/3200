@@ -6,7 +6,7 @@ status: wip
 date: "約40年前"
 aliases: [ルパン事件]
 tags: [重大事件, 国家案件, 窃盗]
-related: [faction:shrines, faction:reimusho, concept:grades, concept:cooperation-policy, concept:legal-status, concept:jugu, concept:core-layer]
+related: [faction:shrines, faction:reimusho, concept:grades, concept:cooperation-policy, concept:legal-status, concept:jugu, concept:core-layer, event:hyakki-yako-attempt, concept:kami]
 updated: 2026-09-05
 ---
 
@@ -110,6 +110,22 @@ C級が国家を動かすことがあり、B級が地域で片付くこともあ
 **これが「捕まえられた」ことの説明にもなっている**（下記）。**巫女は再現能力に勝ったのではなく、殴った。** **《ルパン》の様式に、殴り合いへの答えは入っていない。**
 
 > ただし**巫女が勝った理由がこれだと出典が書いているわけではない。** repo 側の読み。
+
+#### そして、上限に線が引かれた例が出た
+
+**[[event:hyakki-yako-attempt]] の黒幕。**
+
+**《ルパン》の完全変装が、完璧に模倣できなかった。** **理由は「人とか妖怪とか、そういうのではなかったようで」。**
+
+**変装は「誰かになる」こと。** **相手が「誰か」でなければ成立しない。**
+
+**だから上の「ヤハウェだろうが仏陀だろうが」も、そこは崩れていない。** **神も妖怪も同じもの**（→ [[concept:kami]]）**で、どちらも個体。** **「誰か」ではある。**
+
+> **上限が対象の側に無いというのは、「誰か」である範囲での話だった。**
+
+**それでも相手の特性の大部分を見抜いたのは《ルパン》。** **なれなかったが、見えてはいた。**
+
+**そして [[faction:reimusho]] は、上限確認実験を禁止して「誰に会わせるか」を管理していたはずの相手を**（上記）**、この日は会わせている。**
 
 ### そして、それがそのまま雇う理由になっている
 
