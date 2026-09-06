@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: []
 tags: [妖怪, 前提, 宗教]
-related: [concept:youkai, concept:shinen, faction:shrines, concept:land-god, concept:overseas, concept:grades, event:belzebub-war]
+related: [concept:youkai, concept:shinen, faction:shrines, concept:land-god, concept:overseas, concept:grades, event:belzebub-war, concept:a-rank]
 updated: 2026-09-05
 ---
 
@@ -103,6 +103,20 @@ updated: 2026-09-05
 **だからこの話は、一部の最上層の神職のあいだだけで共有される厳重秘匿領域として扱われる。**
 
 **[[faction:shrines]] の秘匿神秘とは、秘匿の理由が違う。** 神社が隠しているのは**技術**で、こちらが隠しているのは**解釈。** **知られて困るのは、力が漏れることではなく、信頼が崩れること。**
+
+### 神の周りにいるものは、神の一部ではない
+
+**この仮説を、周辺の存在まで広げて読まないこと。**
+
+**天使は、神とは別個体**（→ [[concept:a-rank]]）。**神の一部でも、出力でも、端末でもない。**
+
+> **神の力がどれだけ疲弊していても、関係ない。**
+
+**だから「神が消耗している」と「その周りの存在も弱っている」は繋がらない。**
+
+**実例がある。** **日本の地区長の一人が、召喚した神から天使を借り受けて連れている**（→ [[concept:a-rank]]）。**一人一人がA級相当。**
+
+**もし仮説どおり神の力が変換され切っていたとしても、この貸与は成立する。** **消耗している資源とは別のところから来ている。**
 
 ### 重要なのは、弱い神として扱わないこと
 
