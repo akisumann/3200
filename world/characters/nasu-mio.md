@@ -5,7 +5,7 @@ type: character
 status: draft
 aliases: []
 tags: [人間, 退魔師, A級, 神社, 巫女, 天眼通, 神通力, 呪具保有者]
-related: [concept:a-rank, faction:shrines, faction:old-houses, char:tamamo-no-mae, concept:battle, concept:grades, loc:nikko, char:mimura-sumi, faction:reimusho, concept:core-layer, char:naruse-cecile, concept:youkai-samples, char:kamo-gen, concept:jugu, concept:relics, char:naruse-jin, concept:taimashi, char:shinohara-kyo, faction:shrines, char:suwa-shizuka, concept:shinen, concept:legal-status, concept:cooperation-policy]
+related: [concept:a-rank, faction:shrines, faction:old-houses, concept:youkai-land, char:tamamo-no-mae, concept:battle, concept:grades, loc:nikko, char:mimura-sumi, faction:reimusho, concept:core-layer, char:naruse-cecile, concept:youkai-samples, char:kamo-gen, concept:jugu, concept:relics, char:naruse-jin, concept:taimashi, char:shinohara-kyo, faction:shrines, char:suwa-shizuka, concept:shinen, concept:legal-status, concept:cooperation-policy]
 updated: 2026-09-06
 ---
 
@@ -433,6 +433,73 @@ updated: 2026-09-06
 > **repo 側の読み。** **人間の家系に伝承拘束がかかるとは書かれていない。**
 > **ただし「先祖から技術と力を継承する契約」の例が既に一つある**（→ [[char:kamo-gen]]）。
 
+## 近くの妖怪の里の、外部コネクション要員
+
+**那須野原の近辺に、妖怪の里がある**（→ [[concept:youkai-land]]）。
+
+**その里の外部窓口を、この家が持っている。** **当代はこの人物。**
+
+### 制度としては、既定どおり
+
+**[[concept:youkai-land]] にこう書いてある。**
+
+> **[[faction:shrines]] や [[faction:old-houses]] が代理としてコミュニケーションを取り、うまく契約を取ってきて、国の権利と保護を適用させている。**
+
+**妖怪が自分で役所へ行くのではない。** **間に立つ者がいるから、制度に載れる。**
+
+**この人物は、その「間に立つ者」の一人。** **例外ではなく、書いてある通りの役。**
+
+### 梓弓が、そのまま連絡手段になる
+
+**呼ぶ技を持っている**（上記）。
+
+**里と話をするのに、出向かなくていい。** **弦を鳴らせば来る。**
+
+> **口寄せの道具が、そのまま回線になっている。**
+
+**そして鳴弦は送る側**（上記）。**呼んで、話して、送る。**
+
+**祭事の作法と、里との交流が、同じ二つの技で回っている。**
+
+> **repo 側の読み。** **実際にそう運用しているとは書かれていない。**
+> **ただし技の並びが、そうとしか読めない。**
+
+### 指向性が、ここでも要る
+
+**隣に里がある人間が、無差別の広範囲浄化を持っていたら困る**（上記）。
+
+**祓う相手と、祓わない相手を分けられること。** **それが窓口役の前提になる。**
+
+> **祓えることより、祓わずに済ませられることのほうが要件になる。**
+
+### 里も、同じ石を気にしている
+
+**殺生石の近くに里がある、ということでもある。**
+
+**[[char:tamamo-no-mae]] が起きて困るのは、人間だけではない。**
+
+> **見張りの利害が、最初から共有されている。**
+
+**だから窓口役と監視役が同じ家にあるのは、都合がいい。**
+
+**里の側にも目があり、この人物にも天眼通がある。**
+
+> **repo 側の読み。** **里が石を気にしているとは書かれていない。**
+> **距離から出てくるだけの話として置いておく。**
+
+### 鵜飼睦とは、役の大きさが違う
+
+**[[concept:a-rank]] の鵜飼睦は高位交渉で、妖怪の里との契約そのものを担う。**
+
+| | |
+|---|---|
+| **鵜飼睦** | **全国。**契約を結ぶ側 |
+| **この人物** | **一つの里。**結ばれた契約の下で、日常の窓口をやっている |
+
+**[[concept:youkai-land]] の未決に「里の側に、人間と話す役はいるのか」とある。**
+
+**人間の側の役は、これで一つ埋まった。** **里の側は、まだ空いている。**
+
 ## 殺生石の役目は、ほぼ形だけ
 
 **ここを大きく見積もらないこと。**
@@ -570,6 +637,10 @@ updated: 2026-09-06
 - **緩んだ兆候を見たことがあるのか。** 何百年で一度もないのか
 - **[[faction:reimusho]] との契約はどうなっているのか。** 公職ではないが、報告の義務はありそう
 - **神社の規模。** 氏子の数、祭事の年間予定、収入
+- **その里はどういう里か。** 何が住んでいて、どれくらいの規模か
+- **里の側の窓口役は誰か**（→ [[concept:youkai-land]] の未決）
+- **窓口として何を持っていって、何を受け取っているのか**（→ 同）
+- **里は殺生石をどう思っているのか**
 - **もう一体の特殊A級（酒呑童子）の側にも、同じ役目の人間がいるのか**
   - **いるとしたら、その人物は「消息不明」の山を見ていることになる**（→ [[loc:oeyama]]）
 - **殺生石そのものは `locations/` に立てるか**（→ [[char:tamamo-no-mae]] にその予定が書いてある）
