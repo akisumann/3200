@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [A級退魔師, 公職A級]
 tags: [人物, 制度, 名簿]
-related: [concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, char:nasu-mio, char:mononobe-akari, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
+related: [concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, char:nasu-mio, char:mononobe-akari, char:inbe-haruka, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
 updated: 2026-09-06
 ---
 
@@ -197,7 +197,7 @@ updated: 2026-09-06
 |---|---|---|
 | **[[char:nasu-mio]]** | 特殊A級近傍監視 | **天眼通と、天之麻迦古弓**（恒常型A級呪具）。**隠れられず、遮れず、逃げ切れず、避けられない。**矢は山も大地も通過し、音速を超える相手にも当たる。領域の外から核を射抜き（条件無視の退魔）、鳴弦で浄化と退魔を広範囲に撒く。**天之波々矢は条件付き必中** |
 | **[[char:mononobe-akari]]**（名は仮） | 国家級封印 | **封印系のカード使い。**妖怪の個体も、飛んできた攻撃も、起きている現象も、同じように札へ封じて束で持ち歩く。**対象も大きさも選ばない** |
-| **忌部 遥** | 広域結界 | **都市圏規模の面を、数時間で張る。**中の出入りと、術の通り方を書き換える |
+| **[[char:inbe-haruka]]** | 広域結界 | **都市圏規模の面を、数時間で張る。**中の出入りと、術の通り方を書き換える |
 | **鵜飼 睦** | 高位交渉 | **その場で契約を成立させる**（→ [[concept:core-layer]]） |
 | **斎木 惺** | 逃しポイント | **土地の口を開閉し、繋ぐ。**戦闘では相手を戦場から抜いて落とす |
 | **薬師寺 凪** | 医療・浄化 | **戻す。**呪い、変質、憑依、汚染を巻き戻す |
@@ -233,7 +233,7 @@ updated: 2026-09-06
 
 **詳細は [[char:mononobe-akari]]。**
 
-### 忌部遥 — 広域結界
+### [[char:inbe-haruka]] — 広域結界
 
 **神社の網が、そのまま結界の骨組みになっている。**
 
@@ -242,6 +242,8 @@ updated: 2026-09-06
 **できるのは、都市圏規模の面を数時間で張ること。** **そして中の出入りと、術の通り方を書き換えること。**
 
 > **[[event:hyakki-yako-attempt]] の決戦は山間部の結界圏で行われている**（→ 同）。**あの結界を誰が張ったかは書かれていない。**
+
+**詳細は [[char:inbe-haruka]]。**
 
 ### 鵜飼睦 — 高位交渉
 
