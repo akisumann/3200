@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [A級, B級, C級, D級, E級, F級]
 tags: [体系, 制度]
-related: [concept:powers, concept:jugu, faction:reimusho, concept:relics, event:belzebub-war, concept:supernatural-war, concept:kami]
+related: [concept:powers, concept:jugu, faction:reimusho, concept:relics, event:belzebub-war, concept:supernatural-war, concept:kami, concept:a-rank]
 updated: 2026-09-05
 ---
 
