@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [A級退魔師, 公職A級]
 tags: [人物, 制度, 名簿]
-related: [concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, char:nasu-mio, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
+related: [concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, char:nasu-mio, char:mononobe-akari, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
 updated: 2026-09-06
 ---
 
@@ -197,7 +197,7 @@ updated: 2026-09-06
 | 名前 | 分野 | **何ができるか** | 弱点 |
 |---|---|---|---|
 | **[[char:nasu-mio]]** | 特殊A級近傍監視 | **天眼通と、天之麻迦古弓**（恒常型A級呪具）。**見る・寄せる・祓う・射る・縫い止める**が一張りの弓で揃う。**音速を超える相手にも当たり、領域の外から核を射抜ける**（条件無視の退魔）。呼ぶ側も祓う側も向きを付けられるので、**巫女としての祭事も高い** | **破壊の面が無い。**見えないものには撃てない。**近距離で仕留める手段が無い。条件は飛ばせるが、出力差は飛ばせない** |
-| **物部 灯** | 国家級封印 | **動いているものを止めて、容れ物に落とす。**成立すれば相手の等級を問わない | **時間と準備が要る。**撃ち合いには出せない |
+| **[[char:mononobe-akari]]** | 国家級封印 | **相手の外殻へ「出られない」を刻む。**成立すれば等級を問わない。**そして開けられる** | **動いているものは封じられない。**止める役が別に要る。戦闘力そのものは低い |
 | **忌部 遥** | 広域結界 | **都市圏規模の面を、数時間で張る。**中の出入りと、術の通り方を書き換える | **攻撃力がほぼ無い。**張るまでが遅い |
 | **鵜飼 睦** | 高位交渉 | **その場で契約を成立させる。**相手の条件を読み、外殻へ書き込む（→ [[concept:core-layer]]） | **戦闘力は中程度。**話が通じない相手には何もできない |
 | **斎木 惺** | 逃しポイント | **土地の口を開閉し、繋ぐ。**戦闘では相手を戦場から抜いて落とす | **落とす先が要る。**逃しポイントの無い土地では効かない |
@@ -229,20 +229,21 @@ updated: 2026-09-06
 
 **詳細は [[char:nasu-mio]]。**
 
-### 物部灯 — 国家級封印
+### [[char:mononobe-akari]] — 国家級封印
 
-**封印蔵を持つ旧家の当主**（→ [[faction:old-houses]]）。
+**封印蔵を持つ旧家の当主**（→ [[faction:old-houses]]）。**[[faction:reimusho]] の手に負えないA級相当の封印を、実際に掛けている側。**
 
-**[[faction:reimusho]] が持っているのは一般封印技術で、A級相当への封印は秘術の領域。** **概要すらシークレット**（→ [[faction:shrines]]）。**その側の最上位。**
+**封印は、相手の外殻へ「ここから出られない」を刻む技術**（→ [[concept:core-layer]]）。**核には触らない。** **だから討伐ではなく、成立すれば等級を問わない。**
 
-**封印は、動いているものを止めて容れ物に落とす技術。** **成立すれば相手の等級を問わない。**
+**ただし動いているものは封じられない。** **止める役が別に要る。**
 
-**ただし成立させるまでが重い。** **時間と準備が要り、撃ち合いの最中には通らない。**
+> **[[char:nasu-mio]] が一人で完結してしまうのに対して、こちらは一人では何もできない。**
 
-> **[[char:naruse-cecile]] の一時間詠唱と、同じ型の切り札。**
-> **[[char:kamo-gen]] の死者蘇生と同じで、事前に済ませておければ話が変わる。**
+**そして開けられる。** **国内の封印の多くがこの家の手順で掛かっているので、開ける側に回ったら全部が同時に危なくなる。** **止める仕組みは無い。**
 
-**そして [[char:nasu-mio]] が見ている殺生石は、この人物にも掛け直せない。** **同じ秘術を持っているとは書かれていない。**
+**[[char:tamamo-no-mae]] の殺生石だけは、この家の手順ではない。** **台帳に載っていない。**
+
+**詳細は [[char:mononobe-akari]]。**
 
 ### 忌部遥 — 広域結界
 

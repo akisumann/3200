@@ -5,7 +5,7 @@ type: character
 status: draft
 aliases: []
 tags: [人間, 退魔師, A級, 神社, 巫女, 天眼通, 神通力, 呪具保有者]
-related: [concept:a-rank, faction:shrines, faction:old-houses, concept:youkai-land, char:tamamo-no-mae, concept:battle, concept:grades, loc:nikko, char:mimura-sumi, faction:reimusho, concept:core-layer, char:naruse-cecile, concept:youkai-samples, char:kamo-gen, concept:jugu, concept:relics, char:naruse-jin, concept:taimashi, char:shinohara-kyo, faction:shrines, char:suwa-shizuka, concept:shinen, concept:legal-status, concept:cooperation-policy, concept:youkai-nature, char:kurosawa-akira, concept:release-points]
+related: [concept:a-rank, faction:shrines, faction:old-houses, concept:youkai-land, char:tamamo-no-mae, concept:battle, concept:grades, loc:nikko, char:mimura-sumi, faction:reimusho, concept:core-layer, char:naruse-cecile, concept:youkai-samples, char:kamo-gen, concept:jugu, concept:relics, char:naruse-jin, concept:taimashi, char:shinohara-kyo, faction:shrines, char:suwa-shizuka, concept:shinen, concept:legal-status, concept:cooperation-policy, concept:youkai-nature, char:kurosawa-akira, concept:release-points, char:mononobe-akari]
 updated: 2026-09-06
 ---
 
@@ -878,7 +878,7 @@ updated: 2026-09-06
 
 > **日本で二体しかいない特殊A級の一体を、直せない人間が見張っている。**
 
-**[[concept:battle]] のA級の分野でいうと、国家級封印の側が呼ばれることになる。** **ただしそちらにも、この封印は掛け直せない。** **同じ秘術を持っているとは書かれていない。**
+**[[char:mononobe-akari]]（国家級封印）が呼ばれることになる。** **ただしそちらにも、この封印は掛け直せない。** **殺生石は物部家の手順ではなく、台帳にも載っていない**（→ 同）。
 
 ### ただし、動いたときは重い
 
