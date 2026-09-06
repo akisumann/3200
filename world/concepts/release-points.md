@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: []
 tags: [体系, 制度, 日本]
-related: [concept:shinen, loc:osorezan, faction:reimusho]
+related: [concept:shinen, loc:osorezan, faction:reimusho, concept:a-rank]
 updated: 2026-09-05
 ---
 
@@ -58,6 +58,16 @@ updated: 2026-09-05
 逃しポイントの近くに住むことは、恐れられてもいなければ特別視されてもいない。一般人には妖怪が見えず、管理もされているので、**日常は普通**。
 
 工場や変電所の近くに住むのと同じくらいの意味しか持たない。**この温度感が、この世界が「妖怪と共にある日常」として成立している証拠**になっている。
+
+## 管理している側
+
+**[[concept:a-rank]] の斎木惺（神社旧家枠のA級）が、全国の網を維持している。**
+
+**[[loc:osorezan]] を含む。** **そして東北地区長の席は五年空いている**（→ [[concept:a-rank]]）。
+
+> **国の側が空いているところを、伝統の側が持っていることになる。**
+
+> **repo 側の決定。** **出典に管理者の指定はない。**
 
 ## 未決
 
