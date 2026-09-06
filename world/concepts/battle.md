@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [条件戦]
 tags: [戦闘, 実務]
-related: [concept:grades, concept:core-layer, concept:youkai-nature, concept:taimashi, concept:youkai-samples, char:kazama-shiro]
+related: [concept:grades, concept:core-layer, concept:youkai-nature, concept:taimashi, concept:youkai-samples, char:kazama-shiro, concept:a-rank]
 updated: 2026-09-05
 ---
 
@@ -301,6 +301,16 @@ D級・E級までは、装備、訓練、距離、札、連携、封鎖、報告
 **A級の分野は、国家級封印、広域結界、神格接続、戦略級札製造、認識災害、近接概念制圧、高位交渉、国家級情報戦、特殊A級近傍監視など。**
 
 **[[char:suwa-shizuka]] が「近接概念制圧」と「戦略級札製造」を背負っている形になる。**
+
+#### この一覧に入っていない分野が、一つある
+
+**死者蘇生。**
+
+**日本に持ち主が一人しかいない**（→ [[concept:a-rank]] の呪術系の術者）。
+
+**「その分野のB級を呼ぶ」「その分野のA級を呼ぶ」という実務の形が、ここでは成立しない。** **分野に一人しかいないので、呼べるか呼べないかしかない。**
+
+> **B級で「同じB級でも専門が違えば代替は効かない」と言っているのが、極端まで行った形。**
 
 ### 等級が高いことと、適していることは別
 
