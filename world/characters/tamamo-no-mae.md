@@ -17,7 +17,7 @@ updated: 2026-09-05
 
 ## 特殊A級
 
-**日本に二体しかいない特殊A級の一体**（→ [[concept:grades]]）。もう一体は酒呑童子（**表向きは消息不明。実際は式神操作系A級の使役下** → [[event:hyakki-yako-attempt]]。本拠は [[loc:oeyama]]）。
+**日本に二体しかいない特殊A級の一体**（→ [[concept:grades]]）。もう一体は酒呑童子（**表向きは消息不明。実際は [[char:kurosawa-akira]] の使役下** → [[event:hyakki-yako-attempt]]。本拠は [[loc:oeyama]]）。
 
 **A級の1/10という規模とちょうど合う。** そして**日本の二体は、どちらも今そこにいない。** 片方は封じられ、片方は行方が知れない。
 

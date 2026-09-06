@@ -34,7 +34,7 @@ updated: 2026-09-06
 
 **空いている。**
 
-**[[concept:grades]] の台帳では、酒呑童子は「消息不明」。** **実際には [[concept:a-rank]] の式神操作系A級が使役している**（→ [[event:hyakki-yako-attempt]]）。
+**[[concept:grades]] の台帳では、酒呑童子は「消息不明」。** **実際には [[char:kurosawa-akira]] が使役している**（→ [[event:hyakki-yako-attempt]]）。
 
 **本拠にはいない。** **そして台帳の側は更新されていない。**
 
@@ -58,5 +58,5 @@ updated: 2026-09-06
 
 - **大江山はいま誰の管轄か**
 - **酒呑童子が使役されていることを、霊務省は知っているのか。** 台帳が更新されていないのは、知らないからか、更新しないと決めたからか
-- **式神操作系A級は、どうやって特殊A級と契約したのか**（→ [[concept:core-layer]] の契約）
+- **[[char:kurosawa-akira]] は、どうやって特殊A級と契約したのか**（→ [[concept:core-layer]] の契約）
 - **源頼光の側の子孫や術式は、いま残っているのか**（→ [[faction:old-houses]]）
