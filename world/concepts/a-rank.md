@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [A級退魔師, 公職A級]
 tags: [人物, 制度, 名簿]
-related: [concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin]
+related: [concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu]
 updated: 2026-09-06
 ---
 
@@ -43,7 +43,82 @@ updated: 2026-09-06
 
 **選抜は強さ順。** 地区の性格も専門も先には見ない（→ [[faction:reimusho]]）。**指揮・結界管理・調整といった要件は、公職A級になる段階で既に要求されている。**
 
-**六人とも名前が分かっている。** ただし**地区が分かっているのは [[char:suwa-shizuka]] だけ。**
+| 地区 | 校地 | 地区長 |
+|---|---|---|
+| **東北** | [[loc:tono]] | **空席**（[[char:shinohara-kyo]] の後任なし） |
+| **関東** | [[loc:nikko]] | **[[char:mimura-sumi]]**（東北を兼務） |
+| **中部** | [[loc:suwa]] | **[[char:suwa-shizuka]]** |
+| **近畿** | [[loc:kyoto]] | **[[char:kamo-gen]]** |
+| **中国四国** | [[loc:izumo]] | **[[char:kurosawa-akira]]** |
+| **九州** | [[loc:dazaifu]] | **[[char:naruse-cecile]]** |
+
+**割り当ての理屈は三つ。**
+
+| | |
+|---|---|
+| **[[char:kamo-gen]] が近畿** | **賀茂は京都の家名。** 旧家の密度が一番高い地区。**[[loc:oeyama]] も管内** |
+| **[[char:kurosawa-akira]] が中国四国** | **神格接続型が、神の集まる地区にいる**（→ [[loc:izumo]] の神在月） |
+| **[[char:naruse-cecile]] が九州** | **大陸への窓口。**海外の系統に一番触れる地区に、外から来た継承者を置いた |
+
+> **これは repo 側の割り当て。** **出典に地区の指定があるのは [[char:suwa-shizuka]]（中部）だけ。**
+
+### 二人の地区長のあいだに、事件の前から棘がある
+
+**[[loc:oeyama]] は [[char:kamo-gen]] の管内。**
+
+**そこは「特殊A級の本拠だが、本人の所在が不明」の山として台帳に載っている。**
+
+**その所在不明の当人を、[[char:kurosawa-akira]] が使役していた。**
+
+> **隣の地区長の管内で、台帳の穴になっている個体を、黙って抱えていた。**
+
+**そして [[event:hyakki-yako-attempt]] で、この二人が独立に動いて黒幕を炙り出している。**
+
+> **repo 側の読み。** **二人の関係がどうだったかは書かれていない。** **配置から出てくる形として、記録しておく。**
+
+## 東北の席が、五年空いている
+
+**[[char:shinohara-kyo]] が封殺されて以来、東北地区長は空席。**
+
+**[[faction:reimusho]] の真実を知るトップ層は、決着をつけた民間の現実改変能力者に打診し、断固拒否されている**（→ [[event:hyakki-yako-attempt]]）。**そこで止まったまま。**
+
+### 埋まらない理由
+
+**A級であれば据える、が原則**（→ [[faction:reimusho]]）。**そして人数は増えていない。**
+
+**残る12人は神社旧家と民間にいて、[[concept:taimashi]] の流動はあるが、引き抜きは常に成立するわけではない。**
+
+**加えて、公職A級の要件がある。** **指揮、結界管理、政治的安定性、対外交渉、広域対応、封印管理、調整、接触判断、被害抑制判断。** **要件を欠く者は落とされずに缶詰にされるが、缶詰にできる余裕が今ある地区ではない。**
+
+**そして [[char:shinohara-kyo]] の一件がある。**
+
+> **前任が二百年隠していた。**
+> **同じ席に、外から人を入れる話になっている。**
+
+### 兼務しているのは関東
+
+**[[char:mimura-sumi]] が、関東と東北の両方を見ている。**
+
+**東北は関東の五分の一の人口で、北海道を含み、面積は最大**（→ [[faction:reimusho]]）。**関東は人口が最大。**
+
+> **一番人が多い地区と、一番広い地区を、一人で持っている。**
+
+**これができるのは、専門で切れないオールマイティーだから。** **他の四人は、専門が寄りすぎていて二地区を持てない。**
+
+**[[loc:osorezan]] が東北の管内にある。** **逃しポイントの有名どころを、兼務の地区長が見ていることになる。**
+
+### 対外的には、まだ18人
+
+**空席は公表されていない。**
+
+**[[event:hyakki-yako-attempt]] の抑止として効いているのは「あいつらは六地区全部を空にして殴りに来た」のほう**（→ 同）。**一地区が五年空いていると知られれば、その抑止が落ちる。**
+
+> **表向き18人。実際は17人。**
+
+**[[concept:grades]] の「A級18人」は、公表されている数のほう。**
+
+> **repo 側の決定。** **「席がどうなったか」は出典に無い。**
+> **[[faction:reimusho]] が調整者であって統治者ではなく、断られたらそれで終わるという性質から、埋まらないほうを取った。**
 
 **そして一人は [[event:hyakki-yako-attempt]] の黒幕で、封殺されている**（下記）。**現在の顔ぶれがこのままなのかは未確認。**
 
@@ -190,10 +265,8 @@ updated: 2026-09-06
 
 ### 席
 
-- **六人とも判明したが、地区が分かっているのは諏訪静だけ。** **残り五人はどの地区か**
-- **黒幕が封殺された後、その席はどうなったのか**
-  - **民間の現実改変能力者への打診は断られている**（上記）。**そこは埋まらなかった**
-  - **他の誰かで埋めたのか、空けたままなのか。** **空けたままなら、いまのA級は18人ではない**
+- **東北の席は、この先埋まるのか。** **誰を入れれば埋まるのか**
+- **兼務がいつまで持つのか**（→ [[char:mimura-sumi]]）
 - **神社旧家の6人と民間の6人**
   - 民間は**一人だけ判明**（現実改変能力者）。**残り五人**
 - **犯罪者A級は、この18人の中にいるのか外にいるのか**

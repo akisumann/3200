@@ -5,7 +5,7 @@ type: location
 status: draft
 aliases: []
 tags: [日本, 関東, 退魔学校]
-related: [concept:taimashi-school, concept:land-god, concept:relics, faction:reimusho]
+related: [concept:taimashi-school, concept:land-god, concept:relics, faction:reimusho, char:mimura-sumi, concept:a-rank, loc:tono]
 updated: 2026-09-06
 ---
 
@@ -43,6 +43,14 @@ updated: 2026-09-06
 
 > **村正が今も何かに反応するとしたら、ここのはず。**
 > **repo 側の読み。確認されていない。**
+
+## 地区長
+
+**[[char:mimura-sumi]]。** **催眠・認識干渉系のオールマイティー型。**
+
+**そして [[loc:tono]] の東北地区を兼務している**（→ [[concept:a-rank]]）。**[[char:shinohara-kyo]] の席が五年空いたままなので。**
+
+> **人口が最大の地区と、面積が最大の地区を、一人で持っている。**
 
 ## 未決
 

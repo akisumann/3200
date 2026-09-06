@@ -41,16 +41,18 @@ updated: 2026-09-05
 
 ### 全国を6つの地区に分けている
 
-| 地区 | 学校の校地 |
-|---|---|
-| **東北**（北海道を含む） | [[loc:tono]] |
-| **関東** | [[loc:nikko]] |
-| **中部** | [[loc:suwa]] |
-| **近畿** | [[loc:kyoto]] |
-| **中国四国** | [[loc:izumo]] |
-| **九州**（沖縄を含む） | [[loc:dazaifu]] |
+| 地区 | 学校の校地 | 地区長 |
+|---|---|---|
+| **東北**（北海道を含む） | [[loc:tono]] | **空席**。関東が兼務 |
+| **関東** | [[loc:nikko]] | [[char:mimura-sumi]] |
+| **中部** | [[loc:suwa]] | [[char:suwa-shizuka]] |
+| **近畿** | [[loc:kyoto]] | [[char:kamo-gen]] |
+| **中国四国** | [[loc:izumo]] | [[char:kurosawa-akira]] |
+| **九州**（沖縄を含む） | [[loc:dazaifu]] | [[char:naruse-cecile]] |
 
-> **校地は repo 側の配置**（→ [[concept:taimashi-school]]）。**地区の区割りのほうは確定。**
+> **校地と地区長の割り当ては repo 側**（→ [[concept:taimashi-school]] / [[concept:a-rank]]）。**地区の区割りのほうは確定。**
+
+**東北の席は [[char:shinohara-kyo]] が封殺されて以来、五年空いている**（→ [[concept:a-rank]]）。**対外的には公表されていない。**
 
 **[[concept:taimashi-school]] の6校も、この地区に一つずつ。** 学校が6校あるのは偶然ではなく、**行政の区割りがそのまま教育の区割りになっている。**
 

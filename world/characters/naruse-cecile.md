@@ -5,13 +5,15 @@ type: character
 status: wip
 aliases: []
 tags: [人間, 退魔師, A級, 地区長, 火力型, フランス出身]
-related: [concept:a-rank, faction:reimusho, concept:grades, concept:overseas, event:belzebub-war, event:hyakki-yako-attempt, concept:relics, char:naruse-jin]
+related: [concept:a-rank, faction:reimusho, concept:grades, concept:overseas, event:belzebub-war, event:hyakki-yako-attempt, concept:relics, char:naruse-jin, loc:dazaifu]
 updated: 2026-09-06
 ---
 
 ## 概要
 
-**A級退魔師。[[faction:reimusho]] の地区長の一人**（地区は未決）。**フランス出身。**
+**A級退魔師。[[faction:reimusho]] の九州地区長**（→ [[loc:dazaifu]]）。**フランス出身。**
+
+> **大陸への窓口の地区に、外から来た継承者を置いた。**
 
 **[[char:naruse-jin]] と結婚し、日本国籍を取得している。**
 
@@ -152,10 +154,11 @@ updated: 2026-09-06
 - [[event:belzebub-war]] — 来日の直前
 - [[char:mimura-sumi]] — 幅と一点、正反対の極
 - [[faction:reimusho]] — 缶詰の規則
+- [[loc:dazaifu]] — 九州地区
 
 ## 未決
 
-- **どの地区の地区長か**
+- **九州は海外の系統に一番触れる地区。** **それが着任の理由の一部だったのか**
 - **何の術の継承者なのか。** 「とんでもなく高等で古い」以外は不明
 - **制御できていない、とはどの程度か。** 暴発するのか、狙いが甘いのか、止められないのか
 - **一時間の詠唱を、実際に通したことはあるのか**

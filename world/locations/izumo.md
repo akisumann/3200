@@ -5,7 +5,7 @@ type: location
 status: draft
 aliases: []
 tags: [日本, 中国四国, 退魔学校, 古代祭祀]
-related: [concept:taimashi-school, loc:izumo-taisha, concept:land-god, concept:kami, faction:shrines]
+related: [concept:taimashi-school, loc:izumo-taisha, concept:land-god, concept:kami, faction:shrines, char:kurosawa-akira]
 updated: 2026-09-06
 ---
 
@@ -56,6 +56,16 @@ updated: 2026-09-06
 **山陰は古代祭祀、山陽は瀬戸内の交通、四国は憑き物と巡礼。** **一つの地区に三つ違う実務がある。**
 
 **東北が「距離が長く人が少ない」なら、中国四国は「陸続きでない管内をどう回すか」の地区。**
+
+## 地区長
+
+**[[char:kurosawa-akira]]。** **式神操作系で、召喚術で神を呼んで天使を借りている。**
+
+> **神格接続型が、神の集まる地区にいる。**
+
+**噛み合わせて置いた配置ではある。** **ただし借りている相手はヤハウェと思われるもので、[[loc:izumo-taisha]] の側ではない。**
+
+**神在月の地区の長が、外の神と取引している。**
 
 ## 未決
 

@@ -5,13 +5,19 @@ type: character
 status: wip
 aliases: []
 tags: [人間, 退魔師, A級, 地区長, 式神操作系]
-related: [concept:a-rank, faction:reimusho, concept:grades, concept:kami, concept:core-layer, concept:legal-status, concept:overseas, event:hyakki-yako-attempt, char:aramaki, loc:oeyama]
+related: [concept:a-rank, faction:reimusho, concept:grades, concept:kami, concept:core-layer, concept:legal-status, concept:overseas, event:hyakki-yako-attempt, char:aramaki, loc:oeyama, loc:izumo, char:kamo-gen]
 updated: 2026-09-06
 ---
 
 ## 概要
 
-**A級退魔師。[[faction:reimusho]] の地区長の一人**（地区は未決）。**式神操作系。**
+**A級退魔師。[[faction:reimusho]] の中国四国地区長**（→ [[loc:izumo]]）。**式神操作系。**
+
+> **神格接続型が、神の集まる地区にいる。**
+
+**[[loc:izumo]] の神在月は、伝承どおりに読めば「年に一度、国中の土地神級が一箇所に集まる月」。** **その地区の長が、召喚術で外国の神を呼んで天使を借りている。**
+
+> **repo 側の配置。** **噛み合わせて置いたが、出典に地区の指定はない。**
 
 **主戦力は、自分のものではない。**
 
@@ -232,6 +238,10 @@ updated: 2026-09-06
 
 **実際には、この人物が使役していた。**
 
+**そして [[loc:oeyama]] は、[[char:kamo-gen]] の管内。**
+
+> **隣の地区長の管内で台帳の穴になっている個体を、黙って抱えていたことになる。**
+
 **[[event:hyakki-yako-attempt]] の黒幕との戦闘で出されている。** **そして止められた。**
 
 **天使と酒呑童子を同時に出せば、それだけで同時使役数の枠が埋まる**（上記）。
@@ -257,10 +267,12 @@ updated: 2026-09-06
 - [[char:aramaki]] — 同時使役数の下の段
 - [[loc:oeyama]] — 使役している特殊A級の本拠
 - [[concept:kami]] — 神格を万能解決装置にしない
+- [[loc:izumo]] — 中国四国地区
+- [[char:kamo-gen]] — [[loc:oeyama]] の管轄側
 
 ## 未決
 
-- **どの地区の地区長か**
+- **[[loc:izumo]] の神在月と、この人物の神格接続に関係はあるのか**
 
 ### 天使
 

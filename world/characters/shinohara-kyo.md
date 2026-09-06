@@ -5,13 +5,13 @@ type: character
 status: wip
 aliases: []
 tags: [人間, 退魔師, A級, 地区長, 呪術系, 現実改変, 長命]
-related: [concept:a-rank, faction:reimusho, concept:grades, concept:taimashi, concept:battle, event:hyakki-yako-attempt, event:lupin-incident, concept:core-layer]
+related: [concept:a-rank, faction:reimusho, concept:grades, concept:taimashi, concept:battle, event:hyakki-yako-attempt, event:lupin-incident, concept:core-layer, loc:tono, char:mimura-sumi, char:shinigami-idol]
 updated: 2026-09-06
 ---
 
 ## 概要
 
-**A級退魔師。[[faction:reimusho]] の地区長の一人**（地区は未決）。**呪術師で、二百年ほど生きている。**
+**A級退魔師。[[faction:reimusho]] の東北地区長だった**（→ [[loc:tono]]）。**呪術師で、二百年ほど生きている。**
 
 **そして、ごく稀に存在する現実改変能力者。**
 
@@ -141,7 +141,18 @@ updated: 2026-09-06
 > **国が持っていた現実改変の手札は、この人物だった。**
 > **それを失い、埋めようとして断られた。**
 
-**空けたままなら、いまのA級は18人ではない。**
+**そして埋まっていない。** **五年、[[char:mimura-sumi]] が関東と兼務で見ている**（→ [[concept:a-rank]]）。
+
+**対外的には、まだ18人と公表されている。** **表向き18人、実際は17人。**
+
+### 東北だった、ということ
+
+**六地区で、人口が一番少なく、面積が一番広い**（→ [[faction:reimusho]]）。
+
+**距離が長く、人が少なく、湧く場所が決まっている**（→ [[loc:tono]]）。**そして [[loc:osorezan]] が管内にある。**
+
+> **repo 側の読み。** **二百年潜伏するのに、一番見られない地区ではあった。**
+> **ただし本人が選んだのか、割り当てられたのかは書かれていない。**
 
 ## 関係
 
@@ -150,10 +161,12 @@ updated: 2026-09-06
 - [[char:kamo-gen]] / [[char:kurosawa-akira]] — 独立に炙り出した二人
 - [[char:mimura-sumi]] — 集結から外した側
 - [[concept:taimashi]] — 三系統に安全な側が無い
+- [[loc:tono]] — 東北地区。空いたままの席
+- [[char:mimura-sumi]] — その席を兼務している
 
 ## 未決
 
-- **どの地区の地区長だったか**
+- **東北を選んだのか、割り当てられたのか**
 - **何をどこまで改変できるのか。** **A級の射程の中の話**（上記）
   - **主目的は「世界をどうこうすること」だったが、目的と射程は別。** **潜伏していたのは、まだできなかったからとも読める**
 - **炙り出された後、復活をさせずに封殺された**（→ [[event:hyakki-yako-attempt]]）

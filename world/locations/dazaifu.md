@@ -5,7 +5,7 @@ type: location
 status: draft
 aliases: []
 tags: [日本, 九州, 退魔学校, 神社]
-related: [concept:taimashi-school, concept:shinen, concept:kami, faction:shrines, concept:overseas]
+related: [concept:taimashi-school, concept:shinen, concept:kami, faction:shrines, concept:overseas, char:naruse-cecile, concept:a-rank, event:belzebub-war]
 updated: 2026-09-06
 ---
 
@@ -71,6 +71,14 @@ updated: 2026-09-06
 > **repo 側の読み。** **「伝承が厚い土地は蓄積が厚い」という [[concept:shinen]] の理屈を、現実の九州へ当てただけ。**
 
 **校地を太宰府に置くと、これらは全部「管内の現場」になる。** **学校は窓口の街に、現場は山と島に。**
+
+## 地区長
+
+**[[char:naruse-cecile]]。** **フランス出身で、[[event:belzebub-war]] の後に来日し、着任してすぐ地区長になった。**
+
+**大陸への窓口の地区に、外から来た継承者を置いた形になる。**
+
+**そして六人の地区長で、面を焼けるのはこの人だけ**（→ [[concept:a-rank]]）。**離島と火山を抱える地区に、唯一の火力型がいる。**
 
 ## 未決
 

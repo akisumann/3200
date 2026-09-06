@@ -5,7 +5,7 @@ type: location
 status: draft
 aliases: []
 tags: [日本, 近畿, 退魔学校, 古代祭祀]
-related: [concept:taimashi-school, concept:legal-status, concept:grades, faction:old-houses, loc:oeyama]
+related: [concept:taimashi-school, concept:legal-status, concept:grades, faction:old-houses, loc:oeyama, char:kamo-gen, faction:reimusho]
 updated: 2026-09-06
 ---
 
@@ -13,7 +13,7 @@ updated: 2026-09-06
 
 **近畿地区の退魔学校が置かれている土地。**
 
-> **これは repo 側の配置。**
+> **これは repo 側の配置。** 出典に「近畿の学校は京都」と書かれているわけではない。**六校を実在の土地へ当てはめた結果。**
 
 ## なぜここか
 
@@ -45,6 +45,14 @@ updated: 2026-09-06
 **ただし現存個体も、真名も、活動状況も、確定情報は少ない。** **`docs/02-canon-policy.md` の「確定してはいけないこと」に入っている。**
 
 **この土地に置いてあることまでが、配置の限界。** **中身は埋めない。**
+
+## 地区長
+
+**[[char:kamo-gen]]。** **賀茂家の当主で、日本で唯一の死者蘇生を持つ。**
+
+**家が京都にあるから近畿地区長になっている**という順序ではない。**[[faction:reimusho]] の地区長は強さ順**（→ 同）。**ただし旧家の密度が一番高い土地から出た人間が、その土地を見ている形にはなっている。**
+
+**そして [[loc:oeyama]] が管内。** **台帳の穴になっている山を抱えていることになる。**
 
 ## 未決
 

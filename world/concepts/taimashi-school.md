@@ -33,14 +33,14 @@ updated: 2026-09-05
 
 #### 校地
 
-| 地区 | 校地 | |
-|---|---|---|
-| 東北 | [[loc:tono]] | 伝承密度。管内に [[loc:osorezan]] |
-| 関東 | [[loc:nikko]] | 都心には土地神の縄張りが取れない |
-| 中部 | [[loc:suwa]] | 諏訪信仰。[[char:suwa-shizuka]] の地区 |
-| 近畿 | [[loc:kyoto]] | 旧家の密度。管内に [[loc:oeyama]] |
-| 中国四国 | [[loc:izumo]] | [[loc:izumo-taisha]] の縄張り |
-| 九州 | [[loc:dazaifu]] | 大陸への窓口。管内に離島と火山 |
+| 地区 | 校地 | 地区長 | |
+|---|---|---|---|
+| 東北 | [[loc:tono]] | 空席 | 伝承密度。管内に [[loc:osorezan]] |
+| 関東 | [[loc:nikko]] | [[char:mimura-sumi]] | 都心には土地神の縄張りが取れない |
+| 中部 | [[loc:suwa]] | [[char:suwa-shizuka]] | 諏訪信仰 |
+| 近畿 | [[loc:kyoto]] | [[char:kamo-gen]] | 旧家の密度。管内に [[loc:oeyama]] |
+| 中国四国 | [[loc:izumo]] | [[char:kurosawa-akira]] | [[loc:izumo-taisha]] の縄張り |
+| 九州 | [[loc:dazaifu]] | [[char:naruse-cecile]] | 大陸への窓口。管内に離島と火山 |
 
 > **校地は repo 側の配置。** 出典に土地の指定はない。**「校地はB級以上の土地神の縄張り」という条件**（下記）**を満たす実在の土地へ、六校を当てはめた結果。** 各ファイルの冒頭にも同じ断りを置いてある。
 

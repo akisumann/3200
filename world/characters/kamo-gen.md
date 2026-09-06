@@ -5,13 +5,13 @@ type: character
 status: wip
 aliases: [賀茂家当主]
 tags: [人間, 退魔師, A級, 地区長, 呪術系]
-related: [concept:a-rank, faction:reimusho, faction:old-houses, concept:grades, concept:jugu, concept:core-layer, event:hyakki-yako-attempt, concept:supernatural-war, concept:overseas]
+related: [concept:a-rank, faction:reimusho, faction:old-houses, concept:grades, concept:jugu, concept:core-layer, event:hyakki-yako-attempt, concept:supernatural-war, concept:overseas, loc:kyoto, loc:oeyama]
 updated: 2026-09-06
 ---
 
 ## 概要
 
-**A級退魔師。[[faction:reimusho]] の地区長の一人**（地区は未決）。**日本の呪術のエキスパートで、近接戦闘を得意とする。**
+**A級退魔師。[[faction:reimusho]] の近畿地区長**（→ [[loc:kyoto]]）。**日本の呪術のエキスパートで、近接戦闘を得意とする。**
 
 **日本で唯一、死者蘇生を持っている。**
 
@@ -26,6 +26,8 @@ updated: 2026-09-06
 **[[char:suwa-shizuka]] と同じ。家そのものが術の単位になっている。**
 
 **賀茂は古社・旧家の家名**（→ [[faction:old-houses]]）。**個人の姓であると同時に、契約の受け皿の名前でもある。**
+
+**そして近畿地区長なのは、家がそこにあるから。** **[[loc:kyoto]] は旧家の密度が一番高い。**
 
 > **repo 側の読み。** **家名が術と一致することまでが確定で、賀茂家の来歴は書かれていない。**
 
@@ -211,10 +213,12 @@ updated: 2026-09-06
 - [[char:shinohara-kyo]] — 炙り出した相手
 - [[concept:jugu]] — A級札
 - [[concept:core-layer]] — 契約
+- [[loc:kyoto]] — 近畿地区
+- [[loc:oeyama]] — 管内にある、台帳の穴
 
 ## 未決
 
-- **どの地区の地区長か**
+- **[[loc:oeyama]] は管内。** **台帳の穴になっている山を、この人物はどう扱っているのか**
 
 ### 血族的契約
 
