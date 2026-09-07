@@ -35,7 +35,7 @@ updated: 2026-09-07
 
 | 地区 | 校地 | 地区長 | |
 |---|---|---|---|
-| 東北 | [[loc:tono]] | 斎木惺 | 伝承密度。管内に [[loc:osorezan]] |
+| 東北 | [[loc:tono]] | 未決 | 伝承密度。管内に [[loc:osorezan]] |
 | 関東 | [[loc:nikko]] | [[char:mimura-sumi]] | 都心には土地神の縄張りが取れない |
 | 中部 | [[loc:suwa]] | [[char:suwa-shizuka]] | 諏訪信仰 |
 | 近畿 | [[loc:kyoto]] | [[char:kamo-gen]] | 旧家の密度。管内に [[loc:oeyama]] |

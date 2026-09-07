@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: []
 tags: [日常, 日本]
-related: [concept:youkai, concept:jugu, concept:grades, concept:release-points]
+related: [concept:youkai, concept:jugu, concept:grades, concept:release-points, concept:a-rank-public-visibility]
 updated: 2026-09-07
 ---
 
@@ -192,6 +192,12 @@ updated: 2026-09-07
 これも「現実世界プラスアルファ」の徹底で、現実のニュースの構成に妖怪由来のものが同じ比率で混ざっている、というだけのこと。**特別扱いしないこと自体が、公然であり日常であることの証拠**になっている。
 
 そして妖怪被害が「現象」や「災害」として扱われることとも揃う。**台風と同じ棚に置かれている。**
+
+### ただし、地区長の顔は知られている
+
+**大規模事件では六地区長が現場へ出るので、その映像がニュースに載る**（→ [[concept:a-rank-public-visibility]]）。
+
+**一般人でも顔と名前を知っていて、「前に大規模結界を張っていた人」程度の雑な能力イメージまで持っていることがある。**
 
 ## 制約
 

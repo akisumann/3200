@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [A級退魔師, 公職A級]
 tags: [人物, 制度, 名簿]
-related: [concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, char:nasu-mio, char:mononobe-akari, char:inbe-haruka, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
+related: [concept:a-rank-public-visibility, concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, char:nasu-mio, char:mononobe-akari, char:inbe-haruka, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
 updated: 2026-09-07
 ---
 
@@ -59,18 +59,16 @@ A級は大きく、次の三系統に散っている。
 
 | 地区 | 校地 | 地区長 |
 |---|---|---|
-| **東北** | [[loc:tono]] | **斎木 惺** |
+| **東北** | [[loc:tono]] | **後任が就任している**（人物は未決） |
 | **関東** | [[loc:nikko]] | **[[char:mimura-sumi]]** |
 | **中部** | [[loc:suwa]] | **[[char:suwa-shizuka]]** |
 | **近畿** | [[loc:kyoto]] | **[[char:kamo-gen]]** |
 | **中国四国** | [[loc:izumo]] | **[[char:kurosawa-akira]]** |
 | **九州** | [[loc:dazaifu]] | **[[char:naruse-cecile]]** |
 
-**斎木惺は、[[char:shinohara-kyo]] が封殺されたあとに神社・旧家側から公職へ移った。**
+**東北は、[[char:shinohara-kyo]] が封殺されたあとも空席にしていない。** **後任が就いている。**
 
-選ばれた第一条件は「東北向きの能力だから」ではなく、**A級であり、地区長の穴を即座に埋められる人物だったから。** もともと [[concept:release-points]] の網に深く関わっていたことは、就任後の実務では大きな利点になっている。
-
-> **この一件そのものが、三系統の人数が固定されていない例。**
+**誰が就いたかは未決。** 選ばれる第一条件は「東北向きの能力だから」ではなく、**A級であり、地区長の穴を即座に埋められること。**
 
 ### 六地区長の選抜
 
@@ -78,7 +76,9 @@ A級は大きく、次の三系統に散っている。
 
 そのうえで指揮、結界管理、調整などの公職要件がある。要件が足りない実力者については、外すより**教育して使う**のが霊務省の基本姿勢。
 
-### 賀茂玄と黒沢明のあいだに、事件の前から棘がある
+**そして就任は、正式に公表される**（→ [[concept:a-rank-public-visibility]]）。**A級認定そのものは一律に広報されないが、地区長の席だけは別。**
+
+### [[char:kamo-gen]] と [[char:kurosawa-akira]] のあいだに、事件の前から棘がある
 
 [[loc:oeyama]] は [[char:kamo-gen]] の管内。
 
@@ -119,7 +119,7 @@ A級の強さは一種類ではない。
 
 土地と家に紐づいている側（→ [[faction:shrines]] / [[faction:old-houses]]）。
 
-**以下は現在わかっている主な人物で、人数を六人に固定する一覧ではない。** 斎木惺のように、公職へ移る者もいる。
+**以下は現在わかっている主な人物で、人数を六人に固定する一覧ではない。** 公職へ移る者もいる。
 
 > **人物ファイルがまだない名前は、名前と分野だけを置いた候補枠。** 一人ずつの確認を通すまでは、他の人物を説明する比較材料や前提には使わない。
 
@@ -193,15 +193,11 @@ A級の強さは一種類ではない。
 
 > **相手を戦わせずに終わらせられる。**
 
-### 斎木惺 — 逃しポイントから公職へ
+### 逃しポイント
 
-もともとは [[concept:release-points]] の網を維持する神社・旧家側のA級。
+[[concept:release-points]] の網を維持しているA級が一人いる。**誰かは未決。**
 
-できるのは、土地の口を開けること、閉じること、繋ぐこと。戦闘では相手を戦場から抜いて落とす。
-
-[[char:shinohara-kyo]] の封殺後、**地区長を空席にしない原則によって霊務省へ移り、東北地区長に就任した。**
-
-この移籍で、神社・旧家側と国側のA級人数はその時点で一人ぶん動いた。**それでも長期的には三系統がおおむね三分の一ずつ、という程度の分布に収まっている。**
+できるのは、土地の口を開けること、閉じること、繋ぐこと。戦闘では相手を戦場から抜いて落とす。**倒さない。移す。**
 
 ### 薬師寺凪 — 医療・浄化
 
@@ -248,7 +244,7 @@ A級だから退治をしている、ということにはなっていない。�
 
 > **地区長は必ずA級だが、特定の一人を強制的に就任させる制度ではない。**
 
-断られれば、別のA級をすぐに据える。それが斎木惺だった。
+断られれば、別のA級をすぐに据える。**実際にそうなっている。**
 
 ## 関係
 
@@ -256,8 +252,9 @@ A級だから退治をしている、ということにはなっていない。�
 - [[faction:reimusho]] — 六地区長は必ずA級。欠員時は最優先で補充
 - [[faction:shrines]] — A級の源流の一つ。公職へ移る者もいる
 - [[concept:taimashi]] — 三系統と、その流動
-- [[event:hyakki-yako-attempt]] — 篠原京封殺と、その後の地区長交代
+- [[event:hyakki-yako-attempt]] — [[char:shinohara-kyo]] 封殺と、その後の地区長交代
 - [[faction:companies]] — 民間A級の一部が属している会社
+- [[concept:a-rank-public-visibility]] — 所属によって、知られ方がかなり違う
 
 ## 未決
 
