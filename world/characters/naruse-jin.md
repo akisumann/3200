@@ -6,7 +6,7 @@ status: draft
 aliases: []
 tags: [人間, 退魔師, 剣士, 遺物保有者]
 related: [char:naruse-cecile, concept:relics, concept:battle, event:belzebub-war, concept:overseas, concept:grades, concept:jugu, char:kamo-gen]
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 ## 概要
@@ -17,7 +17,7 @@ updated: 2026-09-06
 
 **B級最上位。**
 
-> **A級18人には数えられていない。**
+> **二十人弱のA級名簿には数えられていない。**
 
 **[[concept:grades]] の段でいうと、[[char:kamo-gen]] の亡妻と同じところにいる。** **A級の配偶者がB級最上位、という組が、六地区長のうち二つある。**
 

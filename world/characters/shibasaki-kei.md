@@ -6,7 +6,7 @@ status: wip
 aliases: []
 tags: [人間, 退魔師, A級, 民間, 現実改変]
 related: [concept:a-rank, concept:taimashi, faction:reimusho, event:hyakki-yako-attempt, char:shinohara-kyo, concept:core-layer, concept:battle, concept:grades]
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 ## 概要
@@ -72,7 +72,7 @@ updated: 2026-09-06
 
 **事件の後、[[faction:reimusho]] の「真実を知るトップ層」が打診した。** **断られた**（→ [[event:hyakki-yako-attempt]]）。
 
-**打診の中身は書かれていない。** **[[char:shinohara-kyo]] の空席、公職A級認定、限定協力契約 —— どれであっても結果は同じ。**
+**打診の中身は書かれていない。** **[[char:shinohara-kyo]] の後任、公職への転籍、限定協力契約 —— どれであっても結果は同じ。** 断られた後、東北地区長には別のA級である斎木惺が就任した（→ [[concept:a-rank]]）。
 
 ### 断られて、それで終わっている
 
@@ -85,15 +85,13 @@ updated: 2026-09-06
 > **命令できない相手だったのではない。**
 > **命令で埋められる穴ではなかった。**
 
-### そして東北の席は、五年空いたままになっている
+### そして能力の穴だけが、五年残っている
 
 **国が持っていた現実改変の手札は [[char:shinohara-kyo]] だった。** **それを封殺したのが、この人物。**
 
-**公職側の現実改変能力者はゼロになり、埋めようとして断られた。**
+**公職側の現実改変能力者はゼロになり、埋めようとして断られた。** ただし行政上の地区長席は別で、神社・旧家側から移った斎木惺がすぐ後任に就いている。
 
-**いま [[char:mimura-sumi]] が関東と東北を兼務している**（→ [[concept:a-rank]]）。
-
-> **この人物が断ったことが、そのまま制度の穴として残っている。**
+> **この人物が断ったことで、地区長の欠員ではなく、現実改変能力の欠落が制度の穴として残った。**
 
 ## 無所属
 
@@ -103,10 +101,9 @@ updated: 2026-09-06
 
 ## 関係
 
-- [[concept:a-rank]] — A級18人の名簿
+- [[concept:a-rank]] — A級二十人弱の名簿
 - [[event:hyakki-yako-attempt]] — 決着をつけた
 - [[char:shinohara-kyo]] — 封殺した相手。同じ類型のもう一人
-- [[char:mimura-sumi]] — 断った結果を兼務で背負っている側
 - [[concept:taimashi]] — 民間の自由
 
 ## 未決

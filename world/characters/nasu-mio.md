@@ -6,12 +6,12 @@ status: draft
 aliases: []
 tags: [人間, 退魔師, A級, 神社, 巫女, 天眼通, 神通力, 呪具保有者]
 related: [concept:a-rank, faction:shrines, faction:old-houses, concept:youkai-land, char:tamamo-no-mae, concept:battle, concept:grades, loc:nikko, char:mimura-sumi, faction:reimusho, concept:core-layer, char:naruse-cecile, concept:youkai-samples, char:kamo-gen, concept:jugu, concept:relics, char:naruse-jin, concept:taimashi, char:shinohara-kyo, char:suwa-shizuka, concept:shinen, concept:legal-status, concept:cooperation-policy, concept:youkai-nature, concept:release-points, char:mononobe-akari]
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 ## 概要
 
-**A級退魔師。神社系の家の次期当主**（→ [[faction:shrines]]）。**神社旧家枠の六人のうち一人**（→ [[concept:a-rank]]）。**台帳上の分野は特殊A級近傍監視。**
+**A級退魔師。神社系の家の次期当主**（→ [[faction:shrines]]）。**神社・旧家を中心とする伝統側の一人**（→ [[concept:a-rank]]）。**台帳上の分野は特殊A級近傍監視。**
 
 **家はそこそこの規模の神社。** **氏子がいて、年中の祭事があり、下に神職が何人もいて、地域の超常行政に普通に組み込まれている。**
 
@@ -352,7 +352,7 @@ updated: 2026-09-06
 
 ### だから、表に出ている役は全部この人物
 
-**18人に数えられているのは、当主ではなく跡取りのほう。**
+**国内のA級として数えられているのは、当主ではなく跡取りのほう。**
 
 **殺生石の定期報告も、天狗の里で武を示す役も、A級としての地区の案件も、この人物が持っている。** **先代がやっているのは、神社の運営と、氏子と、家のしがらみ。**
 
@@ -428,7 +428,7 @@ updated: 2026-09-06
 
 **[[concept:relics]] の三種の神器と同じ形。** **持っているが動かさない。** **動く時点で、通常の事態ではない。**
 
-**A級退魔師としては、関東地区の在地の上位戦力として普通に使われている。** **関東地区長の [[char:mimura-sumi]] は東北を兼務していて手が足りない**（→ [[concept:a-rank]]）。**在地にA級がいるぶんが、そのまま効いている。**
+**A級退魔師としては、関東地区の在地の上位戦力として普通に使われている。** **関東は国内最大人口の地区で、地区長の [[char:mimura-sumi]] 一人が常に全域へ居られるわけではない**（→ [[concept:a-rank]]）。**在地に別のA級がいるぶんが、そのまま効いている。**
 
 ### A級なのは、石のためではない
 
@@ -507,13 +507,13 @@ updated: 2026-09-06
 
 > **同じ県に、六校のうち一校と、日本最大級の封印がある。**
 
-**そしてその地区長 [[char:mimura-sumi]] は、東北を兼務している。**
+**関東地区長 [[char:mimura-sumi]] が地区全体を見て、殺生石の現地監視はこの人物と家が担う。**
 
-> **日本で一番危ない封印がある地区を、二地区を掛け持ちしている人間が見ている。**
+> **国内最大人口の地区の中に、退魔学校と日本最大級の封印が同居している。**
 
 ## 関係
 
-- [[concept:a-rank]] — A級18人の名簿。神社旧家枠
+- [[concept:a-rank]] — A級二十人弱の名簿。伝統側
 - [[char:tamamo-no-mae]] — 見ている相手
 - [[faction:old-houses]] — 旧家
 - [[char:mimura-sumi]] — 関東地区長

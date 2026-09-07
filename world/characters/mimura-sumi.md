@@ -5,13 +5,13 @@ type: character
 status: wip
 aliases: []
 tags: [人間, 退魔師, A級, 地区長, 催眠系, 認識干渉]
-related: [concept:a-rank, faction:reimusho, faction:old-houses, concept:grades, concept:battle, event:hyakki-yako-attempt, concept:jugu, concept:taimashi, loc:nikko, loc:tono, loc:osorezan, char:shinohara-kyo]
-updated: 2026-09-06
+related: [concept:a-rank, faction:reimusho, faction:old-houses, concept:grades, concept:battle, event:hyakki-yako-attempt, concept:jugu, concept:taimashi, loc:nikko, char:shinohara-kyo]
+updated: 2026-09-07
 ---
 
 ## 概要
 
-**A級退魔師。[[faction:reimusho]] の関東地区長**（→ [[loc:nikko]]）。**そして東北を兼務している**（→ [[loc:tono]]）。**催眠・認識干渉系。**
+**A級退魔師。[[faction:reimusho]] の関東地区長**（→ [[loc:nikko]]）。**催眠・認識干渉系。**
 
 **専門で切れない。オールマイティー型。**
 
@@ -83,7 +83,7 @@ updated: 2026-09-06
 
 **相手は世界の悪意を吸収して常に強くなり続ける**（→ [[char:shinohara-kyo]]）。**時間が経つほど通らなくなる相手だった。**
 
-## 現在 — 二地区を持っている
+## 現在 — 関東地区長
 
 ### 死亡偽装は、対外的なものだった
 
@@ -91,46 +91,24 @@ updated: 2026-09-06
 
 **ただし妖怪社会の一部には、まだ死んだことになっている。** **訂正が全部には行き渡っていない。**
 
-### 東北を兼務している
+### 東北は兼務していない
 
-**[[char:shinohara-kyo]] が封殺されて以来、東北地区長は空席**（→ [[concept:a-rank]]）。
+**[[char:shinohara-kyo]] が封殺された後、東北地区長には斎木惺が就任した**（→ [[concept:a-rank]]）。この人物が事件中に行った「六地区分の活動反応を一人で出す」偽装は、決戦のための短期運用であって、その後の行政を複数地区ぶん担っているという意味ではない。
 
-**その穴を、この人物が持っている。**
-
-| 地区 | |
-|---|---|
-| **関東** | **人口が最大** |
-| **東北** | **北海道を含み、面積が最大。**関東の五分の一の人口 |
-
-> **一番人が多い地区と、一番広い地区を、一人で見ている。**
-
-**これができるのは、専門で切れないオールマイティーだから。** **他の四人は専門が寄りすぎていて、二地区を持てない。**
-
-**[[loc:osorezan]] が東北の管内にある。** **逃しポイントの有名どころを、兼務の地区長が見ていることになる。**
-
-#### 五年、持っている
-
-**そして [[event:hyakki-yako-attempt]] のとき、この人物は六地区分の活動反応を一人で出していた。**
-
-**あれは数日の話で、こちらは五年。**
-
-> **同じ人間が、同じことを規模を落として続けている。**
-
-**[[faction:reimusho]] の待遇は「税金関係で渋くてブラック気味。辞める人が割と出る」**（→ [[concept:taimashi]]）。
+> **数日間、六人が各地にいるよう見せた。**
+> **五年間、二地区を兼務したわけではない。**
 
 ## 関係
 
-- [[concept:a-rank]] — A級18人の名簿
+- [[concept:a-rank]] — A級二十人弱の名簿
 - [[event:hyakki-yako-attempt]] — この人物の仕事がほぼ全部ここにある
 - [[char:naruse-cecile]] — 幅と一点、正反対の極
 - [[char:shinohara-kyo]] — 集結から外した相手
 - [[faction:old-houses]] — 秘匿術式の出どころ
 - [[loc:nikko]] — 関東地区
-- [[loc:tono]] / [[loc:osorezan]] — 兼務している東北地区
 
 ## 未決
 
-- **兼務はいつまで持つのか。** **東北の席が埋まる当てはあるのか**
 - **妖怪社会の一部にまだ死んだと思われていることを、本人は利用しているのか**
 - **どの旧家の秘匿術式か。** 出身の家はどこか
 - **六地区分の活動反応を出す、という規模の術式は何なのか**

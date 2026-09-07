@@ -6,7 +6,7 @@ status: draft
 aliases: []
 tags: [妖怪, 特殊A級, アメリカ]
 related: [concept:shinen, concept:grades, concept:overseas, concept:core-layer, concept:supernatural-war, char:tamamo-no-mae, char:raiju, char:hanako-san, char:nostradamus]
-updated: 2026-09-05
+updated: 2026-09-07
 ---
 
 ## 概要
@@ -23,7 +23,7 @@ updated: 2026-09-05
 
 **A級の中でも特に強力で、名が知れていて、警戒を持ってあたる存在だと国際的にも周知されている妖怪。** そして**全国に情報の徹底開示が求められる。**
 
-数は**A級の1/10**。日本のA級妖怪が18体なので、**日本では1〜2体**という規模。
+数は**A級の1/10程度**。日本で把握されているA級妖怪数を基準にすれば、**国内で1〜2体**という規模。
 
 ## ただし、バグは日本の妖怪ではない
 
@@ -33,7 +33,7 @@ updated: 2026-09-05
 
 **だから日本の1〜2体には入らない。**
 
-**日本の特殊A級は [[char:tamamo-no-mae]]（封印中）と酒呑童子（**表向きは消息不明** → [[event:hyakki-yako-attempt]]）の二体。** A級18体の1/10という規模と、ちょうど合う。
+**日本の特殊A級は [[char:tamamo-no-mae]]（封印中）と酒呑童子（**表向きは消息不明** → [[event:hyakki-yako-attempt]]）の二体。** 把握されているA級妖怪の一割程度という規模感にも合う。
 
 **そして表向きは、日本側の二体はどちらも今そこにいない。** 片方は封じられ、片方は行方が知れない。**A級の上の段は、日本国内では実質空いていることになっている。**
 

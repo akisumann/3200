@@ -6,7 +6,7 @@ status: wip
 aliases: [条件戦]
 tags: [戦闘, 実務]
 related: [concept:grades, concept:core-layer, concept:youkai-nature, concept:taimashi, concept:youkai-samples, char:kazama-shiro, concept:a-rank]
-updated: 2026-09-05
+updated: 2026-09-07
 ---
 
 ## 概要
@@ -283,7 +283,7 @@ D級・E級までは、装備、訓練、距離、札、連携、封鎖、報告
 > **「その分野の第一人者を呼ぶ」という原則が、この人物には効かない。**
 > **何の分野で呼んでも来る。**
 
-**だから稀。** **A級18人がそういう構成なら「分野別の第一人者」という言い方自体が成り立たなくなる。** **例外として一人いる、という位置。**
+**だから稀。** **A級二十人弱がそういう構成なら「分野別の第一人者」という言い方自体が成り立たなくなる。** **例外として一人いる、という位置。**
 
 ### 三段の意味が違う
 

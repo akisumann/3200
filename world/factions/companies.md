@@ -6,7 +6,7 @@ status: draft
 aliases: [民間企業]
 tags: [民間, 産業, 企業]
 related: [concept:taimashi, concept:a-rank, concept:jugu, concept:daily-life, faction:reimusho, concept:legal-status]
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 ## 概要
@@ -121,7 +121,7 @@ updated: 2026-09-06
 
 **[[concept:taimashi]] の「合法工房の帳簿に混ざっている」が、そのまま。**
 
-**[[faction:reimusho]] は把握していない。** **18人の名簿には正規のA級として載っている。**
+**[[faction:reimusho]] は把握していない。** **二十人弱のA級名簿には、正規のA級として載っている。**
 
 > **[[concept:taimashi]] の「三系統のどこかに裏の側があるわけではない」。**
 > **民間企業の一覧の中に、普通に混ざっている。**

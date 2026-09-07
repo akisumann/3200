@@ -6,7 +6,7 @@ status: wip
 aliases: []
 tags: [人間, 退魔師, A級, 地区長, 火力型, フランス出身]
 related: [concept:a-rank, faction:reimusho, concept:grades, concept:overseas, event:belzebub-war, event:hyakki-yako-attempt, concept:relics, char:naruse-jin, loc:dazaifu]
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 ## 概要
@@ -147,7 +147,7 @@ updated: 2026-09-06
 
 ## 関係
 
-- [[concept:a-rank]] — A級18人の名簿
+- [[concept:a-rank]] — A級二十人弱の名簿
 - [[char:naruse-jin]] — 配偶者。吸収剣
 - [[event:belzebub-war]] — 来日の直前
 - [[char:mimura-sumi]] — 幅と一点、正反対の極

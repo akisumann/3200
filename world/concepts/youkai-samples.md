@@ -6,7 +6,7 @@ status: wip
 aliases: [妖怪サンプル]
 tags: [等級, 現場]
 related: [concept:grades, concept:core-layer, concept:shinen, concept:taimashi, concept:land-god, concept:battle]
-updated: 2026-09-05
+updated: 2026-09-07
 ---
 
 ## 概要
@@ -429,5 +429,5 @@ updated: 2026-09-05
 
 - **七人ミサキは打倒手段が存在しない**（確定）。**封印はできる。誰が封印しているのか** → [[faction:shrines]]
 - **かまいたちが式神として雇われる**（確定）。**D級の式神は普通のことなのか** → [[concept:legal-status]]
-- **ドラキュラは日本にいるのか。** 海外の妖怪なら、日本のA級18体には入らない → [[concept:overseas]]
+- **ドラキュラは日本にいるのか。** 海外の妖怪なら、日本国内のA級妖怪把握数には入らない → [[concept:overseas]]
 - **八咫烏は誰が抑えているのか。** 交渉系B級退魔師が対応するとあるが、決裂したら誰が出るのか

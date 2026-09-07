@@ -6,7 +6,7 @@ status: draft
 aliases: []
 tags: [日本, 東北, 退魔学校, 伝承]
 related: [concept:taimashi-school, concept:land-god, concept:shinen, loc:osorezan]
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 ## 概要
@@ -33,7 +33,7 @@ updated: 2026-09-06
 
 **東北地区は北海道を含む**（→ [[faction:reimusho]]）。**そして関東の五分の一の人口を、同じ数の新人で捌いている。**
 
-**地区長は五年、空席**（→ [[concept:a-rank]]）。**[[char:mimura-sumi]] が関東と兼務している。**
+**東北地区長は斎木惺**（→ [[concept:a-rank]]）。前任の [[char:shinohara-kyo]] が封殺された後、神社・旧家側から公職へ移って就任した。
 
 **[[loc:osorezan]] も同じ地区。** **逃しポイントの有名どころが管内にある。**
 

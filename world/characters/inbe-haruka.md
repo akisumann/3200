@@ -6,12 +6,12 @@ status: draft
 aliases: []
 tags: [人間, 退魔師, A級, 広域結界, 神社]
 related: [concept:a-rank, concept:barrier-network, faction:shrines, faction:reimusho, concept:release-points, concept:land-god, concept:core-layer, concept:battle, concept:grades, char:shibasaki-kei, char:nasu-mio, event:hyakki-yako-attempt, faction:companies, concept:daily-life]
-updated: 2026-09-06
+updated: 2026-09-07
 ---
 
 ## 概要
 
-**A級退魔師。神社旧家枠の六人のうち一人**（→ [[concept:a-rank]]）。**分野は広域結界。**
+**A級退魔師。神社・旧家を中心とする伝統側の一人**（→ [[concept:a-rank]]）。**分野は広域結界。**
 
 **面を張る。都市圏を丸ごと覆う大きさを、数時間で。**
 
@@ -97,7 +97,7 @@ updated: 2026-09-06
 
 ## 関係
 
-- [[concept:a-rank]] — A級18人の名簿。神社旧家枠
+- [[concept:a-rank]] — A級二十人弱の名簿。伝統側
 - [[concept:barrier-network]] — 立っている土台。三層のうち神社結界網の側
 - [[faction:shrines]] — 網を持っている側
 - [[faction:reimusho]] — 借りている側
