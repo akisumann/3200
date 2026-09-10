@@ -6,7 +6,7 @@ status: wip
 aliases: []
 tags: [前提]
 related: [concept:core-layer, concept:shinen, concept:kami, concept:youkai-nature, concept:legal-status, concept:taimashi, concept:judicial-evidence]
-updated: 2026-09-07
+updated: 2026-09-10
 ---
 
 ## 概要
@@ -147,6 +147,8 @@ updated: 2026-09-07
 **種族だけで等級の目安が決まる場合がある。** 鬼は鬼であるというだけでB級は堅く、天狗はC級以上。その理由は [[concept:core-layer]] と深く関係する（保留）。
 
 **下位等級は数が定まらない。** E級・F級は無限に湧き、勝手に消え、討伐や警邏で増減する。F級は「霊が見える人が足で踏めば死ぬ」ほど弱くて不安定で、蔵にゴキブリのように溜まることもある。**害虫に近い扱い** → [[concept:jugu]]
+
+**上位は滅多に増えない。** 新しくA級が湧くのは、日本で**年に一体あるかどうか** → [[concept:grades]]
 
 約100年前に国際標準として定められた制度なので、それより古い妖怪の中には受け付けないものもいる。ただし人間と交流のある妖怪は、たいてい受け入れている。
 
