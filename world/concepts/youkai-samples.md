@@ -6,7 +6,7 @@ status: wip
 aliases: [妖怪サンプル]
 tags: [等級, 現場]
 related: [concept:grades, concept:core-layer, concept:shinen, concept:taimashi, concept:land-god, concept:battle]
-updated: 2026-09-07
+updated: 2026-09-10
 ---
 
 ## 概要
@@ -362,6 +362,8 @@ updated: 2026-09-07
 **全長10キロ前後の巨大ムカデ。**
 
 **過去に出現した際、A級の地区長と火力戦になり、周辺の山岳地帯が大規模に破壊された。**
+
+**個体名を持つ妖怪が湧いた記録として扱われている**（→ [[concept:shinen]] / [[concept:grades]]）。
 
 **能力は、極論すれば「巨大であること」に集約される。**
 
