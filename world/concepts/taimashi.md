@@ -6,7 +6,7 @@ status: wip
 aliases: []
 tags: [職能, 日本]
 related: [concept:powers, concept:grades, concept:youkai, concept:taimashi-school, faction:reimusho, faction:shrines, faction:old-houses, concept:supernatural-war]
-updated: 2026-09-07
+updated: 2026-09-13
 ---
 
 ## 概要
@@ -50,6 +50,8 @@ updated: 2026-09-07
 #### 高位になるほど、巻き込みを含む大規模判断まで預けられる
 
 たとえば、**山を越えるほど巨大な大百足が出現し、止めるために山そのものを粉砕する規模の術を撃った。その巻き込みで避難しきれなかった人が数人死亡した。**
+
+> **これは例示。** [[concept:youkai-samples]] にある大百足の出現記録とは別の話。
 
 この結果だけを見て、自動的に殺人や過失致死として扱う制度では、高位退魔師は必要な攻撃を選べない。**その場で大百足を止める必要があり、攻撃規模と予測される被害が状況に照らして妥当だったなら、死者が出ても正規の退魔行為として合法になり得る。**
 
