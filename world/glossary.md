@@ -13,6 +13,7 @@
 | 核 / コア | かく | [[concept:core-layer]] | 英語圏では「コア」 |
 | 外殻 / レイヤー | がいかく | [[concept:core-layer]] | 英語圏では「レイヤー」 |
 | 思念 | しねん | [[concept:shinen]] | 妖怪の元になるもの |
+| 系譜 | けいふ | [[concept:lineage]] | 妖怪が乗る伝承の型。派生は深さを引き継ぐ |
 | 土地神級妖怪 | とちがみきゅう | [[concept:land-god]] | 土地を扱うB級以上の妖怪 |
 | 神 | かみ | [[concept:kami]] | 妖怪と同じもの。祀られているかどうかの違い |
 | 協調路線 | きょうちょうろせん | [[concept:cooperation-policy]] | 制御できてオンリーワンな妖怪とは協調する国の方針 |
