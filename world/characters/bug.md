@@ -5,8 +5,8 @@ type: character
 status: draft
 aliases: []
 tags: [妖怪, 特殊A級, アメリカ]
-related: [concept:shinen, concept:grades, concept:overseas, concept:core-layer, concept:supernatural-war, char:tamamo-no-mae, char:raiju, char:hanako-san, char:nostradamus]
-updated: 2026-09-07
+related: [concept:lineage, concept:shinen, concept:grades, concept:overseas, concept:core-layer, concept:supernatural-war, char:tamamo-no-mae, char:raiju, char:hanako-san, char:nostradamus]
+updated: 2026-09-22
 ---
 
 ## 概要
@@ -68,6 +68,8 @@ updated: 2026-09-07
 現代生まれの怪異が高位に届くには**広域認知、継続的認識、社会不安、象徴性、文明定着、生活習慣への浸透、記録・通信・観測との結合**が要る（→ [[char:nostradamus]]）。**バグはこの条件表をほぼ全部埋めている。**
 
 **歴史の浅さを、密度と生活への食い込みで埋めた。**
+
+**そして乗った系譜が無い。** 新しく湧くものの大半は既存の系譜からの派生で、その伝承の深さを引き継ぐ（→ [[concept:lineage]]）。**バグは引き継がずに、自前で深さを作った。** [[char:nostradamus]] が黙示録の終末伝承に乗ったのとは、そこが違う。
 
 **[[char:nostradamus]] が規模で届いたのに対して、バグは定着で届いている。** 同じ現代生まれでも、埋め方が違う。**そして残ったのはバグのほうだった。**
 
