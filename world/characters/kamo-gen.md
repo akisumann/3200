@@ -5,8 +5,8 @@ type: character
 status: wip
 aliases: [賀茂家当主]
 tags: [人間, 退魔師, A級, 地区長, 呪術系]
-related: [concept:a-rank, faction:reimusho, faction:old-houses, concept:grades, concept:jugu, concept:core-layer, event:hyakki-yako-attempt, concept:supernatural-war, concept:overseas, loc:kyoto, loc:oeyama]
-updated: 2026-09-07
+related: [char:yakushiji-nagi, concept:a-rank, faction:reimusho, faction:old-houses, concept:grades, concept:jugu, concept:core-layer, event:hyakki-yako-attempt, concept:supernatural-war, concept:overseas, loc:kyoto, loc:oeyama]
+updated: 2026-09-25
 ---
 
 ## 概要
@@ -199,6 +199,7 @@ updated: 2026-09-07
 
 ## 関係
 
+- [[char:yakushiji-nagi]] — 憑いたもの・撒かれたものは凪が戻す。生死は扱わない
 - [[concept:a-rank]] — A級二十人弱の名簿
 - [[char:suwa-shizuka]] — 面を焼けないA級という同じ型
 - [[char:kurosawa-akira]] — 百鬼夜行で、独立に同じ相手へ向かった

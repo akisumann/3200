@@ -5,8 +5,8 @@ type: character
 status: wip
 aliases: [殴り巫女, 諏訪地区長]
 tags: [人間, 退魔師, A級, 地区長, 巫女]
-related: [faction:reimusho, faction:shrines, concept:grades, concept:jugu, concept:taimashi, event:lupin-incident, event:hyakki-yako-attempt, loc:suwa]
-updated: 2026-09-07
+related: [char:yakushiji-nagi, faction:reimusho, faction:shrines, concept:grades, concept:jugu, concept:taimashi, event:lupin-incident, event:hyakki-yako-attempt, loc:suwa]
+updated: 2026-09-25
 ---
 
 ## 概要
@@ -155,6 +155,7 @@ updated: 2026-09-07
 
 ## 関係
 
+- [[char:yakushiji-nagi]] — 同じ医療寄りでも、凪は他人から主を取り上げる側
 - [[faction:reimusho]] — 中部地区長。六地区長の一人
 - [[faction:shrines]] — 諏訪大社系の古社所属。神降ろしは神社の本業の極北にある
 - [[concept:jugu]] — A級霊札の製造者

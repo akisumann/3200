@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [A級退魔師, 公職A級]
 tags: [人物, 制度, 名簿]
-related: [concept:a-rank-public-visibility, concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, char:nasu-mio, char:mononobe-akari, char:inbe-haruka, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
+related: [concept:a-rank-public-visibility, concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, char:nasu-mio, char:mononobe-akari, char:inbe-haruka, char:yakushiji-nagi, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
 updated: 2026-09-07
 ---
 
@@ -129,7 +129,7 @@ A級の強さは一種類ではない。
 | **[[char:mononobe-akari]]**（名は仮） | 国家級封印 | **名前のあるものを指定し、触れていれば、その名前が指す範囲が全部札に入る。**対象の種類は問わないが、最大規模はA級相当まで |
 | **[[char:inbe-haruka]]** | 広域結界 | **都市圏規模の面を数時間で張る。**中の出入りと、術の通り方を書き換える |
 | **鵜飼 睦** | 高位交渉 | **その場で契約を成立させる**（→ [[concept:core-layer]]） |
-| **薬師寺 凪** | 医療・浄化 | **戻す。**呪い、変質、憑依、汚染を巻き戻す |
+| **[[char:yakushiji-nagi]]** | 医療・浄化 | **照らした相手の外殻を一唱えで塗り替え、その場で自分の式神にする。**「戻す」はその使い道 |
 
 ### [[char:nasu-mio]] — 特殊A級近傍監視
 
@@ -201,11 +201,15 @@ A級の強さは一種類ではない。
 
 できるのは、土地の口を開けること、閉じること、繋ぐこと。戦闘では相手を戦場から抜いて落とす。**倒さない。移す。**
 
-### 薬師寺凪 — 医療・浄化
+### [[char:yakushiji-nagi]] — 医療・浄化
 
-[[concept:battle]] のB級専門分野にある「医療浄化」のA級側。
+[[concept:battle]] のB級専門分野にある「医療浄化」のA級側。**台帳上の分野はそう書かれている。**
 
-できるのは、戻すこと。呪い、変質、憑依、汚染を巻き戻す。
+**実際の芯は、外殻の塗り替えによる強制式神化。** 照らして相手の外殻に薬師の名を上書きし、その場で自分の式神にする（→ [[concept:core-layer]] / [[concept:shinen]]）。
+
+**「戻す」は、その術式の使い道の一つ。** 呪い・憑依・変質・汚染の主を式にして、主として引き上げを命じる。
+
+**そして塗り替えてきたA級妖怪が、護衛として身のまわりに控えている。**
 
 ## 民間側の主なA級
 
