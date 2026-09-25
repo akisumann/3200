@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [A級, B級, C級, D級, E級, F級]
 tags: [体系, 制度]
-related: [concept:powers, concept:jugu, faction:reimusho, concept:relics, event:belzebub-war, concept:supernatural-war, concept:kami, concept:a-rank]
+related: [concept:powers, char:yakushiji-nagi, concept:jugu, faction:reimusho, concept:relics, event:belzebub-war, concept:supernatural-war, concept:kami, concept:a-rank]
 updated: 2026-09-10
 ---
 
@@ -491,6 +491,12 @@ B級以上の妖怪は「大抵は有名どころ」だが、その名は**個�
 理由は単純で、**A級だろうが妖怪は勝手に湧き出てくる**から。
 
 したがってA級妖怪の数は常に暫定。**現在の把握数が人間側の二十人弱と近い数字になっていても、それは両者を同数に揃える制度や法則があるからではない。** 妖怪側は把握できている範囲での推計で、人間側とは確からしさが違う。
+
+#### 式神になったA級は、把握数から外れる
+
+**式神登録されたA級妖怪は、基本的に把握数に数えない**（→ [[concept:legal-status]]）。**台帳が並べているのは野にいるもので、主のついたものは、その主の側で見られている。**
+
+**だから式神化は、A級を一体ずつ台帳から下ろす手段でもある。** [[char:yakushiji-nagi]] の瑠璃の帳に座っているA級は、いずれもこの形で外れている。
 
 #### 湧く頻度は、年に一体あるかどうか
 

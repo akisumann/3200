@@ -6,7 +6,7 @@ status: wip
 aliases: []
 tags: [人間, 退魔師, A級, 地区長, 式神操作系]
 related: [concept:a-rank, faction:reimusho, concept:grades, concept:kami, concept:core-layer, concept:legal-status, concept:overseas, event:hyakki-yako-attempt, char:aramaki, loc:oeyama, loc:izumo, char:kamo-gen]
-updated: 2026-09-07
+updated: 2026-09-25
 ---
 
 ## 概要
@@ -277,7 +277,7 @@ updated: 2026-09-07
 - **常時いるのか、召喚のたびに借りるのか**
 - **返却があるのか。期限があるのか**
 - **[[concept:legal-status]] の手続きを経ているのか。** 日本国内で活動しているA級相当の妖怪が複数いることになる
-- **[[concept:grades]] の国内A級妖怪の把握数に含まれるのか**
+- **[[concept:grades]] の国内A級妖怪の把握数に含まれるのか。** 式神登録されたA級は把握数から外れる（確定 → [[concept:grades]]）。**天使は式神ではなく借り受けなので、同じ扱いになるかは別問題**
 - **何を「悪」と判定しているのか。** 誰の基準か
   - **妖怪には罪がない**（→ [[concept:legal-status]]）。**善悪で裁かれる枠の外にいる相手を、どう判定するのか**
   - 行いで見るのか、存在の種類で見るのか

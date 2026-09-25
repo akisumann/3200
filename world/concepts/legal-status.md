@@ -6,7 +6,7 @@ status: wip
 aliases: []
 tags: [前提, 制度]
 related: [concept:youkai, concept:cooperation-policy, faction:reimusho, concept:core-layer, concept:shinen, concept:a-rank, concept:overseas]
-updated: 2026-09-07
+updated: 2026-09-25
 ---
 
 ## 概要
@@ -251,6 +251,8 @@ updated: 2026-09-07
 **そこも一つではない。** そして**力での調伏もあり、そのための技術もある。**
 
 **つまり同意は必須ではない。** 力ずくで従わせて登録する、という道が制度の中にある。
+
+**そして式神になった妖怪は、野の妖怪としての数え方から外れる。** A級であっても、基本的に [[concept:grades]] の把握数からは下りる。**主がついた時点で、見る側が変わる。**
 
 #### 式神契約は、個体を作る技術でもある
 
