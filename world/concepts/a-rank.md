@@ -5,7 +5,7 @@ type: concept
 status: wip
 aliases: [A級退魔師, 公職A級]
 tags: [人物, 制度, 名簿]
-related: [concept:a-rank-public-visibility, concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, char:nasu-mio, char:mononobe-akari, char:inbe-haruka, char:yakushiji-nagi, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
+related: [concept:a-rank-public-visibility, concept:grades, faction:reimusho, faction:shrines, faction:old-houses, concept:taimashi, concept:kami, concept:relics, concept:core-layer, concept:legal-status, char:suwa-shizuka, char:kamo-gen, char:kurosawa-akira, char:mimura-sumi, char:shinohara-kyo, char:naruse-cecile, char:naruse-jin, char:shibasaki-kei, char:nasu-mio, char:mononobe-akari, char:inbe-haruka, char:yakushiji-nagi, char:ukai-mutsumi, loc:tono, loc:nikko, loc:suwa, loc:kyoto, loc:izumo, loc:dazaifu, faction:companies, concept:release-points, concept:battle]
 updated: 2026-09-07
 ---
 
@@ -128,7 +128,7 @@ A級の強さは一種類ではない。
 | **[[char:nasu-mio]]** | 特殊A級近傍監視 | **天眼通と、天之麻迦古弓**（恒常型A級呪具）。**隠れられず、遮れず、逃げ切れず、避けられない。**矢は山も大地も通過し、音速を超える相手にも当たる。領域の外から核を射抜き、鳴弦で浄化と退魔を広範囲に撒く。**天之波々矢は条件付き必中** |
 | **[[char:mononobe-akari]]**（名は仮） | 国家級封印 | **名前のあるものを指定し、触れていれば、その名前が指す範囲が全部札に入る。**対象の種類は問わないが、最大規模はA級相当まで |
 | **[[char:inbe-haruka]]** | 広域結界 | **都市圏規模の面を数時間で張る。**中の出入りと、術の通り方を書き換える |
-| **鵜飼 睦** | 高位交渉 | **その場で契約を成立させる**（→ [[concept:core-layer]]） |
+| **[[char:ukai-mutsumi]]** | 高位交渉 | **歌で縛って封じる。**力を丸ごとでも、行動の一部だけでも選んで封じられる。**戦わせずに終わらせる** |
 | **[[char:yakushiji-nagi]]** | 医療・浄化 | **照らした相手の外殻を一唱えで塗り替え、その場で自分の式神にする。**「戻す」はその使い道 |
 
 ### [[char:nasu-mio]] — 特殊A級近傍監視
@@ -187,13 +187,15 @@ A級の強さは一種類ではない。
 
 詳細は [[char:inbe-haruka]]。
 
-### 鵜飼睦 — 高位交渉
+### [[char:ukai-mutsumi]] — 高位交渉
 
-妖怪の里との契約、土地神との調整。[[concept:cooperation-policy]] の協調路線を現場で成立させている側。
+**台帳上の分野は高位交渉。** 実際に組んでいるのは封印で、**歌で相手を縛る。**
 
-できるのは、その場で契約を成立させること（→ [[concept:core-layer]]）。
+封じるのは、力を丸ごとでも、行動の一部だけでもいい。「暴れる力」「この谷から出る力」を選んで封じられる。**相手は相手のまま、封じられたことだけができなくなる。**
 
 > **相手を戦わせずに終わらせられる。**
+
+**だから台帳では交渉の側に置かれている。** [[concept:cooperation-policy]] の協調路線を、力で成立させている側。
 
 ### 逃しポイント
 
